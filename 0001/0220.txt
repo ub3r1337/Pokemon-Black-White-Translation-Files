@@ -1,23 +1,23 @@
-なし
-アキテーヌ
-アルザス
-イル・ド・フランス
-オーベルニュ
-コルシカ
-シャンパーニュ・アルデンヌ
-ノール・パ・ド・カレ
-バス＝ノルマンディー
-オート＝ノルマンディー
-ピカルディ
-フランシュ・コンテ
-ブルゴーニュ
-ブルターニュ
-プロバンス
-ペイ・ド・ラ・ロワール
-ポワトゥ・シャラント
-ミディ・ピレネー
-ラングドック・ルシヨン
-リムーザン
-ローヌ・アルプ
-ロレーヌ
-サントル
+﻿No
+Aquitaine
+Alsace
+Ile de France
+Auvergne
+Corsica
+Champagne Ardenne
+Nord Pas de Calais
+Bus-Normandie
+Haute-Normandie
+Picardie
+Franche Conte
+Burgundy
+Brittany
+Provence
+Pays de la Loire
+Charente Powatou
+Midi-Pyrenees
+Languedoc Roussillon
+Limousin
+Rhone-Alpes
+Lorraine
+Centre

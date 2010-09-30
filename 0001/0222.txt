@@ -1,36 +1,36 @@
-なし
-アンダマン・ニコバルしょとう
-アーンドラ・プラデーシュ
-アルナーチャル・プラデーシュ
-アッサム
-ビハール
-チャンディガル
-チャッティースガル
-ダドラおよびナガル・アベリ
-ダマン・ディウ
-デリー
-ゴア
-グジャラート
-ハリヤーナー
-ヒマーチャル・プラデーシュ
-ジャンム・カシミール
-ジャールカンド
-カルナータカ
-ケーララ
-ラクシャディープ
-マディヤ・プラデーシュ
-マハラシュトラ
-メガラヤ
-ミゾラム
-マニプル
-ナガランド
-オリッサ
-ポンディシェリ
-パンジャーブ
-ラジャスターン
-シッキム
-タミル・ナードゥ
-トリプラ
-ウッタル・プラデーシュ
-ウッタランチャル
-にしベンガル
+﻿No
+Andaman and Nicobar Shotou
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chandigar
+Chattisugaru
+Aberi Dadora and Nagar
+Daman and Diu
+Delhi
+Goa
+Gujarat
+Hariyana
+Himachal Pradesh
+Jammu and Kashmir
+Jharkhand
+Karnataka
+Kerala
+Lakshadweep
+Madhya Pradesh
+Maharashtra
+Meghalaya
+Mizoram
+Manipur
+Nagaland
+Orissa
+Pondicherry
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Tripura
+Uttar Pradesh
+Uttaranchal
+Bengal

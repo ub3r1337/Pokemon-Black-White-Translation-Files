@@ -1,17 +1,17 @@
-ハイテク　地球儀\xfffeジオネット　へ　ようこそ！\xf000븁\x0000
-何を　しますか？
-ここでは　あなたが　実際に\xfffe住んでいる　場所を\xf000븀\x0000登録　することが　できます\xf000븁\x0000あなたが　登録した　場所は\xfffeＤＳワイヤレス通信　や\xf000븀\x0000Ｗｉ－Ｆｉコネクション　で\xf000븀\x0000友達や　知らない　だれかに\xf000븀\x0000送られる　ことが　あります\xf000븁\x0000あなたが　住んでいる　場所を\xfffe登録　しますか？
-あなたが　住んでいる　場所を\xfffe選んでください
-あなたが　住んでいる　地域を\xfffe選んでください
-住んでいる　場所を\xfffe一度　登録　すると\xf000븀\x0000変更　することは　できません\xf000븁\x0000本当に　この　場所を\xfffe登録　しますか？
-\xf000Ĥ\x0001\x0000
-\xf000ĥ\x0001\x0000
-はい
-いいえ
-一覧を　みる
-登録を　する
-やめる
-\xf000ȅ\x0000みる
-あなたが　登録した　場所\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-ポイントのうえで　Ｘボタンを　押すと\xfffe地名を　表示　します
-\xf000ȅ\x0000やめる
+﻿Globe Tech \ xfffe GeoNet Welcome! \ Xf000 븁 \ x0000
+What do you do?
+Here you actually \ xfffe the place you live \ xf000 븀 \ x0000 can register \ xf000 븁 \ x0000 where you have registered \ xfffeDS and wireless \ xf000 븀 \ x0000Wi-Fi connection in \ xf000 븀 \ x0000 friends or know someone \ xf000 븀 \ x0000 may be sent \ xf000 븁 \ x0000 to where you live \ xfffe Want to?
+A place where you live \ xfffe Please select
+An area where you live \ xfffe Please select
+The place you live \ xfffe Once registered \ xf000 븀 \ x0000 can not be changed \ xf000 븁 \ x0000 this place really \ xfffe Want to?
+\ Xf000Ĥ \ x0001 \ x0000
+\ Xf000ĥ \ x0001 \ x0000
+Yes
+No
+See the list
+To register
+Quit
+\ Xf000ȅ \ x0000 explore
+Where you have registered \ xfffe \ xf000Ĥ \ x0001 \ x0000 \ xfffe \ xf000ĥ \ x0001 \ x0001
+The point after it and press X \ xfffe display the place name
+\ Xf000ȅ \ x0000 quit

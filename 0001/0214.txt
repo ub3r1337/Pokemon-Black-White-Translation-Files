@@ -1,4 +1,4 @@
-なし
+﻿なし
 アクレ
 ロンドーニア
 アラゴーアス
@@ -25,4 +25,31 @@
 サンタ・カタリーナ
 サン・パウロ
 セルジッペ
-トカンチンス
+トカンチンスNo
+Akure
+Rondonia
+Aragoasu
+Amapa
+Amazonas
+Bahia
+Security alarm
+Ren baggage Uku
+Espirito Santo
+Goiás
+Marannyon
+Matt Grosso
+Matt Grosso do Sul
+Minas Gerais
+Paller
+Paraiba
+Parana
+Perunanbukko
+Piaui
+Rio de Janeiro
+Rio Grande do Sul
+Rio Grande do Norte
+Roraima
+Santa Catarina
+Sao Paulo
+Serujippe
+Tocantins

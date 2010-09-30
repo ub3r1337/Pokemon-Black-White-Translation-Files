@@ -1,51 +1,51 @@
-なし
-ほっかいどう（さっぽろ）
-ほっかいどう（はこだて）
-ほっかいどう（わっかない）
-ほっかいどう（くしろ）
-あおもり
-いわて
-みやぎ
-あきた
-やまがた
-ふくしま
-いばらき
-とちぎ
-ぐんま
-さいたま
-ちば
-とうきょう
-かながわ
-にいがた
-とやま
-いしかわ
-ふくい
-やまなし
-ながの
-ぎふ
-しずおか
-あいち
-みえ
-しが
-きょうと
-おおさか
-ひょうご
-なら
-わかやま
-とっとり
-しまね
-おかやま
-ひろしま
-やまぐち
-とくしま
-かがわ
-えひめ
-こうち
-ふくおか
-さが
-ながさき
-くまもと
-おおいた
-みやざき
-かごしま
-おきなわ
+﻿No
+What Beihai (Sapporo)
+What Beihai (FUN)
+Beihai do (or not burst)
+What Beihai (Kushiro)
+Aomori
+Iwate
+Miyagi
+Akita
+Yamagata
+Fukushima
+Ibaraki
+Tochigi
+Gunma
+Saitama
+Chiba
+Thank Today
+Kanagawa
+Niigata
+Toyama
+Ishi Waka
+Fukui
+Yamanashi
+Nagano
+Gifu
+Shizuoka
+Aichi
+Mie
+And the
+And today
+Osaka
+Hyogo
+If
+Wakayama
+Tottori
+Shimane
+Okayama
+Shima Hiro
+Yamaguchi
+Toku Shima
+Kagawa
+Ehime
+Kochi
+Fukuoka
+Have been
+Nagasaki
+Kumamoto
+Oita
+Miyazaki
+Kagoshima
+Okinawa

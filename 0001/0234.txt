@@ -1,198 +1,198 @@
-みつけた数
-捕まえた数
-ＪＰＮ
-Ｅ
-ＦＲＡ
-ＧＥＲ
-ＩＴＡ
-ＳＰＡ
-説明
-\xf000Ȃ\x0001\x0000
-高さ
-重さ
-『検索モード』
-条件を　入力してください
-『検索の　結果』
-見つかった数　\xf000Ȃ\x0001\x0000
-図鑑の　並びを　指定します
-名前の　頭文字を　指定します
-タイプを　指定します
-重さの　範囲を　指定します
-高さの　範囲を　指定します
-形を　指定します
-生息地域を　指定します
-条件を　満たす　ポケモンが
-見つかりませんでした……
-検索しています……
-並び順
-名前
-タイプ
-高さ
-重さ
-地域
-形
-カントー
-ジョウト
-リセット
-スタート
-やめる
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-決定
-やめる
-番号
-五十音
-重い
-軽い
-高い
-低い
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+﻿Number found
+Number caught
+JPN
+E
+FRA
+GER
+ITA
+SPA
+Description
+\ Xf000Ȃ \ x0001 \ x0000
+Height
+Weight
+[Search Mode]
+Please enter a condition
+[Search results]
+The number found in \ xf000Ȃ \ x0001 \ x0000
+Specifies a list of picture book
+Specify the name initials
+Specify the type of
+The range of weight
+Specify height range
+Specify type
+Specify habitat
+Pokemon meet
+Found ...
+Searching for ...
+Sort
+Name
+Type
+Height
+Weight
+Regional
+Form
+Tho
+Johto
+Reset
+Start
+Quit
+\ Xf000Ȃ \ x0001 \ x0000. \ Xf000Ȁ \ x0001 \ x0001
+Decision
+Quit
+Number
+Alphabetical
+Heavy
+Light
+High
+Low
+Scum
+Said
+Esper
+Fighting
+Grass
+Ice
+Ghost
+The same surface
+Denki
+Poison
+Dragon
+Normal
+It is not
+Flying
+Most of us
+Water
+Insect
 ーーーー
-ジョウト
-カントー
-不明
+Johto
+Tho
+Unknown
 ーーーー
-ア
-イ
-ウ
-エ
-オ
-カ
-キ
-ク
-ケ
-コ
-サ
-シ
-ス
-セ
-ソ
-タ
-チ
-ツ
-テ
-ト
-ナ
-ニ
-ヌ
-ネ
-ノ
-ハ
-ヒ
-フ
-ヘ
-ホ
-マ
-ミ
-ム
-メ
-モ
-ヤ
-ユ
-ヨ
-ラ
-リ
-ル
-レ
-ロ
-ワ
+A
+Y
+C
+D
+O
+Cart
+Ci
+General
+Ke
+Koh
+Support
+System
+Source
+Center
+Software
+Data
+Ji
+Tree
+Test
+Default
+Na
+D
+J
+Ne
+Bruno
+C
+Arsenate
+Off
+F
+E
+Ma
+Mi
+System
+Media
+Model
+Ya
+Yu
+Yo
+La
+List
+Le
+Les
+B
+Wa
 ー
-オスのすがた
-メスのすがた
-にしのうみ
-ひがしのうみ
-くさきのミノ
-すなちのミノ
-ゴミのミノ
-あるすがた
-日本語の図鑑
-英語の図鑑
-フランス語の図鑑
-ドイツ語の図鑑
-イタリア語の図鑑
-スペイン語の図鑑
-生息地不明
-朝
-昼
-夜
-切り替え
-\xf000ą\x0001\x0000
-すべて表示
-すべて表示
-大きさ比べ
-重さ比べ
-１．６０ｍ
-１．４８ｍ
-４５．０ｋｇ
-３８．０ｋｇ
-分布
-大きさ
-ポケモン図鑑　登録完了！
-ノーマルフォルム
-アタックフォルム
-ディフェンスフォルム
-スピードフォルム
-ランドフォルム
-スカイフォルム
-アナザーフォルム
-オリジンフォルム
-ロトムのすがた
-ヒートロトム
-ウォッシュロトム
-フロストロトム
-スピンロトム
-カットロトム
-\xf000ā\x0001\x0000のすがた
-ポワルンのすがた
-たいようのすがた
-あまみずのすがた
-ゆきぐものすがた
-ネガフォルム
-ポジフォルム
-ギザみみ
-\xf000ā\x0001\x0000：
-見比べる
-\xf000ā\x0001\x0000を　見比べる
-姿
-切り替える
-もどる
-もどる
-リストに　もどります
-捕まえた　\xf000ā\x0001\x0000に\xfffeニックネームを　つけますか？
-\xf000Ă\x0001\x0000は　だれかの　パソコンの\xfffe\xf000ċ\x0001\x0001に　転送された！
-\xf000Ă\x0001\x0000は　ショウロの　パソコンの\xfffe\xf000ċ\x0001\x0001に　転送された！
-Information/説明
-Map/分布
-Voice/鳴き声
-Forme/姿
-Forme/姿を　見比べる
-\xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-見つけた姿の数
-見つけた色違いの数
-\xf000ȁ\x0001\x0000
-\xf000ȁ\x0001\x0000
-（色違い）
-\xf000ā\x0001\x0000の　分布
-春
-夏
-秋
-冬
-???
+Make sure to male
+Make sure to female
+The western sea
+The east sea
+Minot's Kusaki
+The amino and Chino
+Garbage Minot
+Make sure to have
+Encyclopedia of Japanese
+English Encyclopedia
+French picture book
+German Encyclopedia
+Italian Encyclopedia
+Spanish Picture Book
+Known habitat
+Morning
+Noon
+Night
+Switching
+\ Xf000ą \ x0001 \ x0000
+View All
+View All
+Comparing sizes
+Weight compared
+1.60m
+1.48m
+45.0kg
+38.0kg
+Distribution
+Size
+Complete Illustrated with Pokemon!
+Normal form
+Form attack
+Defense form
+Speed form
+Land form
+Sky Forme
+Anazaforumu
+Origin form
+Make sure to Rotomu
+Hitorotomu
+Uosshurotomu
+Furosutorotomu
+Supinrotomu
+Kattorotomu
+\ Xf000ā \ x0001 \ x0000 ye Nosu
+Make sure to Powarun
+Make sure to solar
+Nosu ye sweet water
+Snow Gumonosugata
+Negative form
+Positive form
+Giza ears
+\ Xf000ā \ x0001 \ x0000:
+Compare
+\ Xf000ā \ x0001 \ x0000 compare the
+Figure
+Switch
+Back
+Back
+To return to the list
+Caught \ xf000ā \ x0001 \ x0000 to \ xfffe I Put a nickname?
+\ Xf000Ă \ x0001 \ x0000 is someone's PC \ xfffe \ xf000ċ \ x0001 \ x0001 has been transferred to!
+\ Xf000Ă \ x0001 \ x0000 Shouro the PC \ xfffe \ xf000ċ \ x0001 \ x0001 has been transferred to!
+Information / Description
+Map / Distribution
+Voice / singing
+Forme / her
+Forme / compare the appearance
+\ Xf000Ȁ \ x0001 \ x0000 '\ xf000ȁ \ x0001 \ x0001 "
+I found her number
+I found many different colors
+\ Xf000ȁ \ x0001 \ x0000
+\ Xf000ȁ \ x0001 \ x0000
+(Different colors)
+\ Xf000ā \ x0001 \ x0000 distribution
+Spring
+Summer
+Fall
+Winter
+??
 HT
 HAUT.
 GR.

@@ -1,560 +1,255 @@
-―\xfffe―\xfffe―\xfffe―\xfffe―
-長い　しっぽや　手などを　使って\xfffe相手を　はたいて　攻撃する。\xfffe
-鋭い　チョップで\xfffe相手を　たたいて　攻撃する。　\xfffe急所に　当たりやすい。
-おうふく　ビンタで\xfffe相手を　たたいて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-どとうの　パンチで\xfffe相手を　なぐりつけて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-力を　こめた　パンチで\xfffe相手を　攻撃する。\xfffe
-相手の　体に\xfffe小判を　投げつけて　攻撃する。\xfffe戦闘の　あとで　お金が　もらえる。
-炎を　こめた　パンチで\xfffe相手を　攻撃する。\xfffeやけど状態に　することが　ある。
-冷気を　こめた　パンチで\xfffe相手を　攻撃する。\xfffeこおり状態に　することが　ある。
-電撃を　こめた　パンチで\xfffe相手を　攻撃する。\xfffeまひ状態に　することが　ある。
-硬く　とがった　鋭い　ツメで\xfffe相手を　ひっかいて　攻撃する。\xfffe
-相手を　両側から　はさんで\xfffeダメージを　あたえる。\xfffe
-大きな　ハサミで\xfffe相手を　切り裂いて　攻撃する。\xfffe当たれば　一撃で　ひんしに　する。
-風の　刃を　つくり\xfffe２ターン目に　相手を　攻撃する。\xfffe急所に　当たりやすい。
-戦いの舞を　激しく　おどって\xfffe気合を　高める。\xfffe自分の　攻撃を　ぐーんと　あげる。
-カマや　ツメなどで\xfffe相手を　切りつけて　攻撃する。\xfffe細い木も　きることが　できる。
-翼で　おこした　激しい　風を\xfffe相手に　ぶつけて　攻撃する。\xfffe
-大きく　ひろげた　りっぱな　翼を\xfffe相手に　ぶつけて　攻撃する。\xfffe
-相手を　吹きとばして\xfffe控えの　ポケモンを　ひきずりだす。\xfffe野生の　場合は　戦闘が　終わる。
-１ターン目で　空へ　飛び\xfffe２ターン目に　相手を　攻撃する。\xfffe知っている　街に　飛ぶことも　できる。
-長い　体や　つるなどを　使い\xfffe４ー５ターンの　あいだ　\xfffe相手を　締めつけて　攻撃する。
-長い　しっぽや　つるなどを　使い\xfffe相手を　たたきつけて　攻撃する。\xfffe
-ムチのように　しなる　細長い　つるで\xfffe相手を　たたきつけて　攻撃する。\xfffe
-大きな　足で\xfffe相手を　踏みつけて　攻撃する。\xfffe相手を　ひるませることが　ある。
-２本の　足で　相手を　けとばして\xfffe攻撃する。２回連続で\xfffeダメージを　与える。
-ものすごい　力を　こめた　キックで\xfffe相手を　けとばして　攻撃する。\xfffe
-高い　ジャンプからの　キックで\xfffe相手を　攻撃する。\xfffeはずすと　自分が　ダメージを　受ける。
-体を　素早く　回転させながら\xfffe相手を　けとばして　攻撃する。\xfffe
-相手の　顔に　砂を　かけて　\xfffe命中率を　さげる。\xfffe
-頭を　突きだして\xfffeまっすぐ　つっこんで　攻撃する。\xfffe相手を　ひるませることが　ある。
-鋭く　とがった　つので\xfffe相手を　攻撃する。\xfffe
-つのや　くちばしで\xfffe相手を　つついて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-回転する　つのを\xfffe相手に　突き刺して　攻撃する。\xfffe当たれば　一撃で　ひんしに　する。
-相手に　むかって　全身で\xfffeぶつかっていき　攻撃する。\xfffe
-全身で\xfffe相手に　のしかかり　攻撃する。\xfffeまひ状態に　することが　ある。
-長い　体や　つるなどを　つかって\xfffe４ー５ターンの　あいだ\xfffe相手に　まきついて　攻撃する。
-すごい　勢いで\xfffe相手に　ぶつかって　攻撃する。\xfffe自分も　少し　ダメージを　受ける。
-２ー３ターンの　あいだ\xfffe暴れまくって　相手を　攻撃する。\xfffe暴れたあとは　混乱する。
-命を　懸けて\xfffe相手に　突進して　攻撃する。\xfffe自分も　かなり　ダメージを　受ける。
-しっぽを　左右に　かわいく　ふって\xfffe油断を　誘う。\xfffe相手の　防御を　さげる。
-毒の　ある　ハリを\xfffe相手に　突き刺して　攻撃する。\xfffe毒状態に　することが　ある。
-２本の　ハリを　相手に　突き刺し\xfffe２回連続で　ダメージ。\xfffe毒状態に　することが　ある。
-鋭い　ハリを\xfffe相手に　発射して　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-鋭い　目つきで　おびえさせて\xfffe相手の　防御を　さげる。\xfffe
-鋭く　とがった　歯で\xfffeかみついて　攻撃する。\xfffe相手を　ひるませることが　ある。
-かわいい　なきごえを　聞かせて\xfffe気を　ひき　油断を　させて\xfffe相手の　攻撃を　さげる。
-相手を　逃がして\xfffe控えの　ポケモンを　ひきずりだす。\xfffe野生の　場合は　戦闘が　終わる。
-心地好い　きれいな\xfffe歌声を　聞かせて\xfffe相手を　眠り状態に　する。
-特殊な　音波を\xfffe体から　発して\xfffe相手を　混乱させる。
-衝撃波を\xfffe相手に　ぶつけて　攻撃する。\xfffe２０の　ダメージを　決まって　与える。
-相手の　動きを　とめて\xfffe直前に　だしていた　技を\xfffe４ターンの　あいだ　使えなくする。
-強い　酸を　相手に　かけて\xfffe攻撃する。相手の　特防を\xfffeさげることが　ある。
-小さな　炎を\xfffe相手に　発射して　攻撃する。\xfffeやけど状態に　することが　ある。
-激しい　炎を\xfffe相手に　発射して　攻撃する。\xfffeやけど状態に　することが　ある。
-白い霧で　体を　おおう。\xfffe５ターンの　あいだ　相手に\xfffe能力を　さげられなく　なる。
-水を　勢いよく\xfffe相手に　発射して　攻撃する。\xfffe
-大量の　水を\xfffe激しい　勢いで\xfffe相手に　発射して　攻撃する。
-大きな　波で　自分の\xfffe周りに　いるものを　攻撃する。\xfffe水上も　泳いで　進める。
-凍える　ビームを\xfffe相手に　発射して　攻撃する。\xfffeこおり状態に　することが　ある。
-激しい　吹雪を\xfffe相手に　吹きつけて　攻撃する。\xfffeこおり状態に　することが　ある。
-不思議な　光線を\xfffe相手に　発射して　攻撃する。\xfffe混乱させることが　ある。
-泡を　勢いよく\xfffe相手に　発射して　攻撃する。\xfffe素早さを　さげる　ことが　ある。
-にじいろの　ビームを\xfffe相手に　発射して　攻撃する。\xfffe攻撃を　さげる　ことが　ある。
-強い　光線を\xfffe相手に　発射して　攻撃する。\xfffe次の　ターンは　動けなくなる。
-鋭く　とがった　くちばしや　つので　\xfffe相手を　突いて　攻撃する。\xfffe
-回転しながら　とがった　くちばしを\xfffe相手に　突き刺して　攻撃する。\xfffe
-地面に　自分ごと\xfffe相手を　投げつけて　攻撃する。\xfffe自分も　少し　ダメージを　受ける。
-足を　強く　けり\xfffe相手を　転ばせて　攻撃する。\xfffe相手が　重いほど　威力が　あがる。
-相手から　受けた　物理攻撃の\xfffeダメージを　２倍に　して\xfffe同じ　相手に　返す。
-引力を　使い　投げとばす。\xfffe自分の　レベルと　同じ　ダメージを\xfffe相手に　与える。
-こん身の　力で\xfffe相手を　なぐりつけて　攻撃する。\xfffe重たい　岩を　押すことも　できる。
-養分を　吸い取り　攻撃する。\xfffe相手に　与えた　ダメージの\xfffe半分の　ＨＰを　回復できる。
-養分を　吸い取り　攻撃する。\xfffe相手に　与えた　ダメージの\xfffe半分の　ＨＰを　回復できる。
-植えつけた　相手の　ＨＰを\xfffe毎ターン　少しだけ　吸い取り\xfffe自分の　ＨＰを　回復する。
-体を　一気に\xfffe大きく　生長させて\xfffe攻撃と　特攻を　あげる。
-はっぱを　とばして　\xfffe相手を　切りつけて　攻撃する。\xfffe急所に　当たりやすい。
-１ターン目に　光を　いっぱいに　集め\xfffe２ターン目に　光の　束を\xfffe発射して　攻撃する。
-毒の　ある　粉を\xfffeたくさん　ふりまいて\xfffe相手を　毒状態に　する。
-しびれる　粉を\xfffeたくさん　ふりまいて\xfffe相手を　まひ状態に　する。
-眠くなる　粉を\xfffeたくさん　ふりまいて\xfffe相手を　眠り状態に　する。
-２ー３ターンの　あいだ　花を\xfffeまきちらして　相手を　攻撃する。\xfffeまきちらした　あとは　混乱する。
-口から　吹きだした　糸を　まきつけて\xfffe相手の　素早さを　さげる。\xfffe
-怒りの　衝撃波を\xfffe相手に　ぶつけて　攻撃する。\xfffe４０の　ダメージを　決まって　与える。
-激しく　渦をまく　炎の中に\xfffe４ー５ターンの　あいだ\xfffe相手を　閉じこめて　攻撃する。
-電気の　刺激を\xfffe相手に　浴びせて　攻撃する。\xfffeまひ状態に　することが　ある。
-強い　電撃を\xfffe相手に　浴びせて　攻撃する。\xfffeまひ状態に　することが　ある。
-弱い　電撃を　浴びせることで\xfffe相手を　まひ状態に　する。\xfffe
-激しい　雷を\xfffe相手に　落として　攻撃する。\xfffeまひ状態に　することが　ある。
-小さな　岩を　持ちあげて\xfffe相手に　投げつけて　攻撃する。\xfffe
-地震の　衝撃で　自分の\xfffe周りに　いるものを　攻撃する。\xfffe
-地割れの　裂け目に\xfffe相手を　落として　攻撃する。\xfffe当たれば　一撃で　ひんしに　する。
-１ターン目に　潜り　２ターン目で\xfffe相手を　攻撃する。\xfffeどうくつからの　脱出も　できる。
-相手を　猛毒の　状態に　する。\xfffeターンが　すすむほど\xfffe毒の　ダメージが　増えていく。
-弱い　念力を\xfffe相手に　送って　攻撃する。\xfffe相手を　混乱させることが　ある。
-強い　念力を　相手に　送って\xfffe攻撃する。相手の　特防を\xfffeさげることが　ある。
-眠気を　誘う　暗示を　かけて\xfffe相手を　眠り状態に　する。\xfffe
-眠っている　力を\xfffe体の　奥から　ひきだして\xfffe自分の　攻撃を　あげる。
-力を　ぬいて　体を　軽くして\xfffe高速で　動く。\xfffe自分の　素早さを　ぐーんと　あげる。
-目にも　留まらぬ　ものすごい　速さで\xfffe相手に　つっこむ。\xfffe必ず　先制攻撃　できる。
-技を　だしたときに　攻撃を\xfffe受けると　怒りの　力で\xfffe攻撃が　あがる。
-野生ポケモンとの　戦闘を　やめる。\xfffe最後に　はいった\xfffeポケセンの　ある　街にも　行ける。
-恐ろしい　幻を　みせて\xfffe自分の　レベルと　同じだけの\xfffeダメージを　相手に　与える。
-相手が　最後に　使った　技を\xfffe戦闘の　あいだ\xfffe自分の　技に　することが　できる。
-おもわず　耳を　ふさぎたくなる\xfffeいやなおとを　だして\xfffe相手の　防御を　がくっと　さげる。
-素早い　動きで　分身を　つくり\xfffe相手を　まどわせて\xfffe回避率を　あげる。
-細胞を　再生させて\xfffe自分の　最大ＨＰの\xfffe半分の　ＨＰを　回復する。
-全身に　力を　こめて\xfffe体を　硬くして\xfffe自分の　防御を　あげる。
-体を　ちぢめて　小さく　みせて\xfffe自分の　回避率を\xfffeぐーんと　あげる。
-煙や　墨などを　吹きかけて\xfffe相手の　命中率を　さげる。\xfffe
-怪しい　光を　\xfffe相手に　みせて　まどわせる。\xfffe相手を　混乱させる。
-殻に　潜りこんで　身を守り\xfffe自分の　防御を　あげる。\xfffe
-体を　まるめて　ちぢこまり\xfffe自分の　防御を　あげる。\xfffe
-頑丈な　壁を　つくって\xfffe自分の　防御を　ぐーんと　あげる。\xfffe
-５ターンの　あいだ　不思議な　かべで\xfffe相手から　受ける　特殊攻撃の\xfffeダメージを　弱める。
-黒い霧を　だして　戦闘に\xfffeでている　ポケモン　全員の\xfffe能力変化を　もとに　もどす。
-５ターンの　あいだ　不思議な　かべで\xfffe相手から　受ける　物理攻撃の\xfffeダメージを　弱める。
-深く　息を　吸い　気合を　こめる。\xfffe自分の　攻撃が\xfffe急所に　当たりやすくなる。
-２ターンの　あいだ　攻撃に　たえて\xfffe受けた　ダメージを　２倍にして\xfffe相手に　返す。
-指をふり　自分の　脳を　刺激して\xfffeすべての　技の　なかから\xfffeどれか　１つを　くりだす。
-相手の　使った　技を　まねして\xfffe自分も　同じ技を　使う。\xfffe
-爆発を　おこして　自分の\xfffe周りに　いるものを　攻撃する。\xfffe使ったあとに　ひんしに　なる。
-大きな　タマゴを　力いっぱい\xfffe相手に　投げつけて　攻撃する。\xfffe
-長い　舌で\xfffe相手を　なめまわして　攻撃する。\xfffeまひ状態に　することが　ある。
-汚れた　ガスを\xfffe相手に　吹きつけて　攻撃する。\xfffe毒状態に　することが　ある。
-汚い　ヘドロを\xfffe相手に　投げつけて　攻撃する。\xfffe毒状態に　することが　ある。
-手に　持った　ホネで\xfffe相手を　なぐりつけて　攻撃する。\xfffe相手を　ひるませることが　ある。
-大の字の　炎で\xfffe相手を　焼きつくす。\xfffeやけど状態に　することが　ある。
-すごい　勢いで　相手に　つっこむ。\xfffe相手を　ひるませることが　ある。\xfffe滝も　泳いで　のぼれる。
-とても　頑丈な　ぶあつい　殻に\xfffe４ー５ターンの　あいだ\xfffe相手を　はさんで　攻撃する。
-星型の　光を　発射して\xfffe相手を　攻撃する。\xfffe攻撃は　必ず　命中する。
-１ターン目に　頭を　ひっこめて\xfffe防御を　あげる。\xfffe２ターン目に　相手を　攻撃する。
-鋭い　ハリを\xfffe相手に　発射して　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-触手や　ツタなどを　からみつけて\xfffe攻撃する。相手の　素早さを\xfffeさげることが　ある。
-頭を　からにして\xfffe一瞬　なにかを　忘れることで\xfffe自分の　特防を　ぐーんと　あげる。
-スプーンを　まげて　注意を　ひき\xfffe相手の　命中率を　さげる。\xfffe
-最大ＨＰの　半分\xfffe自分の　ＨＰを　回復する。\xfffe仲間に　ＨＰを　わけることも　できる。
-ジャンプからの　ひざげりで\xfffe相手を　攻撃する。\xfffeはずすと　自分が　ダメージを　受ける。
-おなかの　模様で　おびえさせて\xfffe相手を　まひの　状態に　する。\xfffe
-寝ている　相手の　夢を　食べて\xfffe攻撃する。ダメージの　半分の\xfffeＨＰを　回復する。
-毒ガスを　相手の　顔に　吹きかけて\xfffe毒の　状態に　する。\xfffe
-まるい　ものを\xfffe相手に　投げつけて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-血を　吸い取って　相手を\xfffe攻撃する。与えた　ダメージの\xfffe半分の　ＨＰを　回復できる。
-恐ろしい　顔で　キスを　せまる。\xfffe相手を　眠り状態に　する。\xfffe
-２ターン目に　相手を　攻撃する。\xfffeたまに　ひるませる。\xfffe急所にも　当たりやすい。
-相手の　ポケモンに　変身することで\xfffe相手と　まったく\xfffe同じ　技が　使える。
-無数の　泡を　相手に　吹きかけて\xfffe攻撃する。相手の　素早さを\xfffeさげることが　ある。
-リズミカルに　パンチを　くりだして\xfffe相手を　攻撃する。\xfffe混乱させることが　ある。
-催眠効果の　ある\xfffe胞子を　パラパラと　ふりまき\xfffe相手を　眠り状態に　する。
-まぶしい　光で　\xfffe相手の　命中率を　さげる。\xfffe暗い　どうくつも　明るく　照らせる。
-不思議な　念波を\xfffe相手に　発射して　攻撃する。\xfffe使うたびに　ダメージが　変わる。
-攻撃もせずに　ピョン　ピョンと\xfffe跳ねるだけで　なにも　おこらない……。\xfffe
-細胞の　変化で　液状に　なり\xfffe自分の　防御を　ぐーんと　あげる。\xfffe
-大きな　ハサミを\xfffe相手に　たたきつけて　攻撃する。　\xfffe急所に　当たりやすい。
-大きな　爆発で　自分の\xfffe周りに　いるものを　攻撃する。\xfffe使ったあとに　ひんしに　なる。
-ツメや　カマなどで\xfffe相手を　ひっかいて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-手に　持った　ホネを　相手に　投げつけ\xfffe行きと　帰りの　２回連続で\xfffeダメージを　与える。
-２ターンの　あいだ　眠り続ける。\xfffe自分の　ＨＰと　状態異常を\xfffeすべて　回復する。
-大きな　岩を\xfffe激しく　ぶつけて　攻撃する。\xfffe相手を　ひるませることが　ある。
-鋭い　前歯で\xfffe強く　かみついて　攻撃する。\xfffe相手を　ひるませることが　ある。
-体の　かどを　増やして\xfffeカクカクに　なることで\xfffe自分の　攻撃を　あげる。
-自分の　タイプを\xfffeおぼえている　技の　なかの\xfffeどれか　１つと　同じ　タイプに　する。
-３つの　光線で　攻撃する。\xfffeまひか　やけどか　こおり状態の\xfffeどれかに　することが　ある。
-鋭い　前歯で\xfffe激しく　かみついて　攻撃する。\xfffe相手の　ＨＰは　半分に　なる。
-ツメや　カマなどで\xfffe相手を　切り裂いて　攻撃する。\xfffe急所に　当たりやすい。
-自分の　ＨＰを　少し　削って\xfffe分身を　だす。\xfffe分身は　自分の　身代わりに　なる。
-自分の　ＰＰが　なくなると\xfffeあがいて　相手を　攻撃する。\xfffe自分も　少し　ダメージを　受ける。
-相手が　使った　技を\xfffe自分の　ものに　する。\xfffe１回　使うと　スケッチは　消える。
-３回連続で　キックを　くりだして\xfffe攻撃する。技が　当たるたびに\xfffe威力は　あがる。
-攻撃と　同時に　道具を　盗む。\xfffe自分が　道具を　持っている　場合は\xfffe盗めない。
-ネバネバした　細い　糸を\xfffeグルグルと　からませて　相手を\xfffe戦闘から　逃げられなくする。
-相手の　動きを　心で　感じて\xfffe次の　攻撃が　必ず\xfffe相手に　当たるように　する。
-眠り状態の　相手に\xfffe悪夢を　みせて　毎ターン　少しずつ\xfffeＨＰを　減らしていく。
-炎を　まとい\xfffe相手に　突進して　攻撃する。\xfffeやけど状態に　することが　ある。
-自分が　寝ているときに\xfffe雑音を　だして　攻撃する。　\xfffe相手を　ひるませることが　ある。
-使う　ポケモンが\xfffeゴーストタイプと　それ以外　とでは\xfffe効果が　変わる。
-じたばた　暴れて　攻撃する。\xfffe自分の　ＨＰが　少ないほど\xfffe技の　威力は　あがる。
-相手が　最後に　使った技に\xfffe抵抗できる　ように\xfffe自分の　タイプを　変化させる。
-空気の　渦を\xfffe発射して　攻撃する。\xfffe急所に　当たりやすい。
-綿のような　フワフワの　胞子を\xfffeまとわり　つかせて\xfffe相手の　素早さを　がくっと　さげる。
-力を　ふりしぼり　攻撃する。\xfffe自分の　ＨＰが　少ないほど\xfffe技の　威力は　あがる。
-相手が　最後に　使った技に\xfffe恨みを　抱いて\xfffeその技の　ＰＰを　４だけ　減らす。
-冷たい　粉雪を\xfffe相手に　吹きつけて　攻撃する。\xfffeこおり状態に　することが　ある。
-相手の　攻撃を\xfffeまったく　受けない。\xfffe連続で　だすと　失敗しやすい。
-目にも　留まらぬ　ものすごい　速さで\xfffeパンチを　くりだす。\xfffe必ず　先制攻撃　できる。
-恐ろしい　顔で　にらみ　おびえさせて\xfffe相手の　素早さを　がくっと　さげる。\xfffe
-さりげなく　相手に　ちかづき\xfffe油断した　すきを　みて　なぐりつける。\xfffe攻撃は　必ず　命中する。
-天使のように　かわいく　キスして\xfffe相手を　混乱させる。\xfffe
-自分の　ＨＰを　最大ＨＰの\xfffe半分　減らして　自分の　攻撃を\xfffe最大に　あげる。
-汚い　ヘドロを\xfffe相手に　投げつけて　攻撃する。\xfffe毒状態に　することが　ある。
-相手の　顔などに\xfffe泥を　投げつけて　攻撃する。\xfffe命中率を　さげる。
-相手の　顔などに\xfffe墨を　吹きかけて　攻撃する。\xfffe命中率を　さげることが　ある。
-相手の　足下に　まきびしを\xfffeしかける。交代で　でてきた　相手の\xfffeポケモンに　ダメージを　与える。
-大砲の　ような\xfffe電気を　発射して　攻撃する。\xfffe相手を　まひの　状態に　する。
-ゴーストタイプに　効果がない　技や\xfffe回避率の　高い　相手に\xfffe攻撃が　当たるように　なる。
-技を　だしたあと　攻撃を　受けて\xfffeひんしに　なったとき\xfffe攻撃　相手も　ひんしに　する。
-歌を　聴いた　ポケモンは\xfffe３ターン　たつと　ひんしに　なる。\xfffe交代すると　効果は　なくなる。
-凍てつく　冷気を\xfffe相手に　吹きつけて　攻撃する。\xfffe相手の　素早さを　さげる。
-相手の　攻撃を\xfffeまったく　受けない。\xfffe連続で　だすと　失敗しやすい。
-硬い　ホネで\xfffe相手を　なぐりつけて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-照準を　しっかり　あわせて\xfffe次の　攻撃が　必ず　\xfffe相手に　当たるように　する。
-２ー３ターンの　あいだ\xfffe暴れまくって　攻撃する。\xfffe暴れたあとは　混乱する。
-５ターンの　あいだ　砂あらしで\xfffeいわ　じめん　はがねタイプ　以外の\xfffeポケモンに　ダメージを　与える。
-養分を　吸い取り　攻撃する。\xfffe与えた　ダメージの\xfffe半分の　ＨＰを　回復できる。
-攻撃を　受けても\xfffeＨＰを　必ず　１だけ　残せる。\xfffe連続で　だすと　失敗しやすい。
-かわいく　みつめて　油断を　誘い\xfffe相手の　攻撃を　がくっと　さげる。\xfffe
-５ターンの　あいだ　転がり続けて\xfffe攻撃する。技が　当たるたびに\xfffe威力が　あがる。
-相手の　ＨＰが　\xfffe必ず　１だけ　残るように\xfffe手加減して　攻撃する。
-相手を　怒らせて　混乱させる。\xfffe怒りで　相手の　攻撃は\xfffeぐーんと　あがってしまう。
-最大ＨＰの　半分\xfffe自分の　ＨＰを　回復する。\xfffe仲間に　ＨＰを　わけることも　できる。
-電気を　まとい\xfffe相手に　突進して　攻撃する。\xfffeまひ状態に　することが　ある。
-カマや　ツメなどで　相手を\xfffe切りつけて　攻撃する。\xfffe連続で　当てると　威力が　あがる。
-硬い　翼を　相手に　たたきつけて\xfffe攻撃する。自分の　防御が\xfffeあがることが　ある。
-吸いこまれるような　黒い　まなざしで\xfffeじっと　みつめて　相手を\xfffe戦闘から　逃げられなくする。
-♂なら♀を　♀なら♂を　誘惑して\xfffeメロメロに　する。\xfffe相手は　技が　だしにくくなる。
-自分が　おぼえている　技の　うち\xfffeどれか　１つを　くりだす。\xfffe自分が　寝ているときだけ　使える。
-心地好い　鈴の　音色を　聞かせて\xfffe味方　全員の\xfffe状態異常を　回復　する。
-トレーナーの　ために　全力で\xfffe相手を　攻撃する。\xfffeなついているほど　威力は　あがる。
-わなを　しかけた　箱を\xfffe相手に　わたして　攻撃する。ＨＰが\xfffe回復して　しまうことも　ある。
-不満を　はらすため　全力で\xfffe相手を　攻撃する。\xfffeなついていないほど　威力は　あがる。
-５ターンの　あいだ\xfffe不思議な　力に　守られて\xfffe状態異常に　ならなくなる。
-自分の　ＨＰと　相手の　ＨＰを\xfffeあわせて　それを　自分と　相手で\xfffeなかよく　わける。
-神秘の　炎で\xfffe相手を　焼きつくして　攻撃する。\xfffeやけど状態に　することが　ある。
-地面を　揺らして　自分の\xfffe周りに　いるものを　攻撃する。\xfffe技の　威力は　いろいろ　変わる。
-こん身の　力で\xfffeパンチを　くりだして　攻撃する。\xfffe相手を　必ず　混乱させる。
-硬くて　りっぱな　つので　おもいっきり\xfffe相手を　突き刺して　攻撃する。\xfffe
-ものすごい　息を\xfffe相手に　吹きつけて　攻撃する。\xfffeまひ状態に　することが　ある。
-控えの　ポケモンと　入れ替わる。\xfffe能力変化は　替わった\xfffeポケモンが　そのまま　受けつぐ。
-相手が　最後に　使った技を\xfffe３ターンの　あいだ\xfffeずっと　ださせる。
-相手　ポケモンが　入れ替わるときに\xfffe技を　だしていると\xfffe倍の　威力で　攻撃できる。
-回転して　相手を　攻撃する。\xfffeしめつける　まきつく　やどりぎのタネ\xfffeまきびし　なども　吹きとばせる。
-香りで　相手の　回避率を　さげる。\xfffe草むら　などで　使うと\xfffeポケモンが　よってくる。
-硬い　しっぽで\xfffe相手を　たたきつけて　攻撃する。\xfffe相手の　防御を　さげることが　ある。
-鋼鉄の　ツメで\xfffe相手を　切り裂いて　攻撃する。\xfffe自分の　攻撃が　あがることが　ある。
-相手より　あとに　攻撃する。\xfffeそのかわり　自分の　攻撃は\xfffe必ず　命中する。
-自分の　ＨＰを　回復する。\xfffe天気に　よって\xfffe回復の　量が　変化する。
-自分の　ＨＰを　回復する。\xfffe天気に　よって\xfffe回復の　量が　変化する。
-自分の　ＨＰを　回復する。\xfffe天気に　よって\xfffe回復の　量が　変化する。
-技を　使った　ポケモンに　よって\xfffe相手に　与える\xfffe技の　タイプと　威力が　変わる。
-両手チョップを\xfffe相手に　たたきつけて　攻撃する。\xfffe急所に　当たりやすい。
-竜巻を　おこして\xfffe相手を　まきこみ　攻撃する。\xfffe相手を　ひるませることが　ある。
-５ターンの　あいだ　雨を　降らせて\xfffeみずタイプの\xfffe技の　威力を　あげる。
-５ターンの　あいだ　日差しを\xfffe強くして　ほのおタイプの\xfffe技の　威力を　あげる。
-鋭い　歯で\xfffe相手を　かみくだいて　攻撃する。\xfffe相手の　防御を　さげることが　ある。
-相手から　受けた　特殊攻撃の\xfffeダメージを　２倍に　して\xfffeその相手に　返す。
-自分に　暗示を　かけることで\xfffe能力変化の　状態を\xfffe相手と　同じにする。
-目にも　留まらぬ　ものすごい　速さで\xfffe相手に　突進して　攻撃する。\xfffe必ず　先制攻撃　できる。
-原始の　力で　攻撃する。\xfffe自分の　すべての\xfffe能力が　あがることが　ある。
-黒い影の　塊を　投げつけて\xfffe攻撃する。相手の　特防を\xfffeさげることが　ある。
-技を　使った　２ターン後に\xfffe相手に　念力の\xfffe塊を　送って　攻撃する。
-岩をも　くだくような\xfffeパンチで　攻撃する。相手の\xfffe防御を　さげる　ことが　ある。
-激しく　渦をまく　水の中に\xfffe４ー５ターンの　あいだ\xfffe相手を　閉じこめて　攻撃する。
-味方　全員で　攻撃する。\xfffe仲間の　ポケモンが　多いほど\xfffe技の　攻撃回数が　増える。
-先制攻撃で　相手を　ひるませる。\xfffe戦闘に　でたら\xfffeすぐに　ださないと　成功しない。
-３ターンの　あいだ\xfffe騒いで　相手を　攻撃する。\xfffeそのあいだは　だれも　眠れなくなる。
-力を　蓄えて　自分の\xfffe防御と　特防を　あげる。\xfffe最大　３回まで　蓄えられる。
-蓄えた　力を\xfffe相手に　ぶつけて　攻撃する。\xfffe蓄えているほど　威力が　あがる。
-蓄えた　力を　のみこんで\xfffe自分の　ＨＰを　回復する。\xfffe蓄えているほど　回復する。
-熱い　息を\xfffe相手に　吹きつけて　攻撃する。\xfffeやけど状態に　することが　ある。
-５ターンの　あいだ　あられを　降らして\xfffeこおりタイプで　ない　ポケモン\xfffe全員に　ダメージを　与える。
-相手に　いちゃもんを　つけて　\xfffe同じ　技を　２回連続で\xfffeだせなくする。
-相手を　おだてて　混乱させる。\xfffe同時に　相手の　特攻も\xfffeあげてしまう。
-不気味で　怪しい　炎を　放って\xfffe相手を　やけどの　状態に　する。\xfffe
-自分は　ひんしに　なるが　そのかわりに\xfffe相手の　攻撃と　特攻を\xfffeがくっと　さげる。
-自分が　毒　まひ　やけど\xfffe状態のとき　相手に　くりだすと\xfffe技の　威力が　２倍に　なる。
-精神を　高めて　パンチを　くりだす。\xfffe技を　だすまでに\xfffe攻撃を　受けると　失敗する。
-まひ状態の　相手には\xfffe威力が　２倍に　なるが\xfffeかわりに　相手の　まひが　治る。
-自分に　注目させて\xfffe相手からの　攻撃を\xfffeすべて　自分に　むけさせる。
-自然の　力で　攻撃する。\xfffe使う　場所で\xfffeでてくる　技が　変化する。
-次の　ターンに　だす　でんきタイプの\xfffe技の　威力を　あげる。\xfffe自分の　特防も　あがる。
-相手を　怒らせる。３ターンの\xfffeあいだ　相手は　ダメージを\xfffe与える　技しか　だせなくなる。
-仲間を　助ける。\xfffeてだすけ　された　ポケモンの　技の\xfffe威力は　いつもより　大きくなる。
-相手の　すきを　ついて\xfffe自分と　相手の\xfffe持ち物を　交換する。
-相手に　なりきって　自分も　相手と\xfffe同じ　特性に　変化する。\xfffe
-次の　ターンに　\xfffe自分の　ＨＰを　最大ＨＰの　\xfffe半分　回復する。
-大急ぎで　味方の　助けを　かりて\xfffe控えの　ポケモンが　おぼえている\xfffe技を　どれか　１つ　使う。
-大地に　根を　張り\xfffe毎ターン　自分の　ＨＰを　回復する。\xfffe根を　張っているので　入れ替えられない。
-すごい　力を　発揮して\xfffe相手を　攻撃する。自分の\xfffe攻撃と　防御が　さがる。
-状態異常に　なる　技や\xfffeやどりぎのタネ　などを\xfffeだされたとき　相手に　跳ね返す。
-戦闘中に　使って　なくなった\xfffe自分の　持ち物を　再生させて\xfffe使えるように　する。
-相手から　技を　受けていると\xfffeその相手に　対して\xfffe与える　ダメージが　２倍に　なる。
-手刀を　勢いよく　振りおろして\xfffe相手を　攻撃する。ひかりのかべや\xfffeリフレクターも　破壊できる。
-大きな　あくびで　眠気を　誘う。\xfffe次の　ターンに\xfffe相手を　眠り状態に　する。
-相手の　持ち物を　はたき　落として\xfffe戦闘が　終わるまで\xfffe使えなくする。
-相手の　ＨＰが　自分の　ＨＰと\xfffe同じくらいに　なるように\xfffeダメージを　与える。
-怒りを　爆発させて　相手を\xfffe攻撃する。自分の　ＨＰが\xfffe少ないほど　技の　威力は　さがる。
-超能力で　自分の　特性と\xfffe相手の　特性を　入れ替える。\xfffe
-相手が　自分と　同じ　技を\xfffeおぼえていたら　相手だけ\xfffeその技を　使えなくする。
-体を　やすめて　自分が　おっている\xfffe毒　まひ　やけどの\xfffe状態異常を　治す。
-相手の　技で　ひんしに　されたとき\xfffeおんねんを　かけて\xfffeその技の　ＰＰを　０に　する。
-相手が　使おうと　した\xfffe回復技や　能力変化の\xfffe技を　うばって　自分に　使う。
-秘密の　力で　\xfffe相手を　攻撃する。使う　場所で\xfffe追加効果が　変化する。
-１ターン目で　潜り　２ターン目に\xfffe浮きあがって　攻撃する。\xfffe海の　奥深くに　潜ることも　できる。
-ひらいた　両手で\xfffe相手を　つっぱって　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-水辺や　草むら　どうくつなど\xfffeいる　場所に　あわせて\xfffe自分の　タイプを　変える。
-点滅する　光を　眺めて\xfffe自分の　精神を　統一し\xfffe特攻を　ぐぐーんと　あげる。
-まばゆい　光を\xfffe解放して　攻撃する。\xfffe相手の　特防を　さげることが　ある。
-霧状の　羽毛で　包みこみ　\xfffe攻撃する。\xfffe相手の　特攻を　さげることが　ある。
-羽毛を　ふりまいて\xfffe相手の　体に　からませる。\xfffe相手の　攻撃を　がくっと　さげる。
-フラフラと　ダンスを　おどって\xfffe自分の　周りに　いるものを\xfffe混乱状態に　させる。
-攻撃した　相手を\xfffeやけど状態に　することが　ある。\xfffe急所にも　当たりやすい。
-泥を　かぶって　どろどろに　なる。\xfffe自分が　いるあいだ\xfffeでんきタイプの　技を　弱める。
-５ターンの　あいだ　転がり続けて\xfffe相手を　攻撃する。技が　当たるたび\xfffe威力が　あがる。
-トゲの　腕を\xfffe激しく　ふるって　攻撃する。\xfffe相手を　ひるませることが　ある。
-怠けて　やすむ。\xfffe自分の　ＨＰを　最大ＨＰの\xfffe半分　回復する。
-うるさく　響く　大きな　振動を\xfffe相手に　与えて　攻撃する。\xfffe
-毒の　ある　キバで\xfffe相手に　かみついて　攻撃する。\xfffe猛毒を　おわせる　ことが　ある。
-硬く　鋭い　ツメで\xfffe切り裂いて　攻撃する。\xfffe相手の　防御を　さげることが　ある。
-爆発の　炎で\xfffe相手を　焼きつくして　攻撃する。\xfffe次の　ターンは　動けなくなる。
-水の　大砲を\xfffe相手に　発射して　攻撃する。\xfffe次の　ターンは　動けなくなる。
-すい星の　ごとく　パンチを　くりだして\xfffe相手を　攻撃する。自分の　\xfffe攻撃が　あがることが　ある。
-大きな　声などで\xfffe不意に　驚かして　攻撃する。\xfffe相手を　ひるませることが　ある。
-使ったときの　天気に　よって\xfffe技の　タイプと　威力が　変わる。\xfffe
-心地好い　やすらぐ　香りを　かがせて\xfffe味方全員の　状態異常を　回復する。\xfffe
-ないた　ふりをして　涙を　流す。\xfffeこまらせる　ことで\xfffe相手の　特防を　がくっと　さげる。
-鋭い　風で\xfffe相手を　切りつけて　攻撃する。\xfffe急所に　当たりやすい。
-フルパワーで　相手を　攻撃する。\xfffe使うと　反動で\xfffe自分の　特攻が　がくっと　さがる。
-ゴーストタイプに　効果がない　技や\xfffe回避率の　高い　相手に\xfffe攻撃が　当たるように　なる。
-岩石を　投げつけて　攻撃する。\xfffe相手の　動きを　封じることで\xfffe素早さを　さげる。
-風に　りんぷんを　のせて　相手を\xfffe攻撃する。自分の　すべての\xfffe能力が　あがることが　ある。
-金属を　こすって　でるような\xfffeいやな　音を　聞かせる。\xfffe相手の　特防を　がくっと　さげる。
-心地好い　笛の　音色を　聞かせて\xfffe相手を　眠りの　状態に　する。\xfffe
-体を　くすぐり　笑わせる　ことで\xfffe相手の　攻撃と　防御を　さげる。\xfffe
-宇宙から　神秘の　力を\xfffeとりこむ　ことで\xfffe自分の　防御と　特防を　あげる。
-潮を　吹きつけて　攻撃する。\xfffe自分の　ＨＰが　少ないほど\xfffe技の　威力は　さがる。
-不思議な　光を\xfffe発射して　攻撃する。\xfffe相手を　混乱させることが　ある。
-影に　まぎれて　パンチを　くりだす。\xfffe攻撃は　必ず　命中する。\xfffe
-みえない　不思議な　力を\xfffe送って　攻撃する。\xfffe相手を　ひるませることが　ある。
-空に　むかうような　高い　アッパーで\xfffe相手を　突きあげて　攻撃する。\xfffe
-激しく　吹きあれる　砂あらしの\xfffe中に　４ー５ターンの　あいだ\xfffe相手を　閉じこめて　攻撃する。
-絶対零度の　冷たさで\xfffe相手を　攻撃する。\xfffe当たれば　一撃で　ひんしに　する。
-濁った　水を\xfffe相手に　発射して　攻撃する。\xfffe命中率を　さげることが　ある。
-タネを　勢いよく\xfffe相手に　発射して　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-素早い　動きで\xfffe相手を　ほんろうして　切りつける。\xfffe攻撃は　必ず　命中する。
-鋭い　氷柱を\xfffe相手に　発射して　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-皮膚を　鉄のように\xfffe硬くする　ことで\xfffe自分の　防御を　ぐーんと　あげる。
-両手を　ひろげて　たちはだかり\xfffe相手の　逃げ道を　ふさいで\xfffe逃げられなくする。
-大声で　ほえて　気合を　高め\xfffe自分の　攻撃を　あげる。\xfffe
-鋭く　とがった　巨大な　ツメで\xfffe相手を　切り裂いて　攻撃する。\xfffe
-大きな　樹木で\xfffe相手を　たたきつけて　攻撃する。\xfffe次の　ターンは　動けなくなる。
-体に　力を　こめて\xfffe筋肉を　ぶあつく　することで\xfffe自分の　攻撃と　防御を　あげる。
-空高く　飛び跳ねて\xfffe２ターン目に　相手を　攻撃する。\xfffeまひ状態に　することが　ある。
-泥の　塊を\xfffe相手に　投げつけて　攻撃する。\xfffe同時に　相手の　素早さを　さげる。
-しっぽで　たたく。\xfffe毒状態に　することが　あり\xfffe急所にも　当たりやすい。
-かわいく　あまえながら\xfffe相手に　ちかづき\xfffe持っている　道具を　うばう。
-電気を　まとって　突進する。\xfffe自分も　かなり　ダメージを　受ける。\xfffeまひ状態に　することが　ある。
-相手を　追跡する\xfffe不思議な　はっぱを まきちらす。\xfffe攻撃は　必ず　命中する。
-水を　かぶって　びしょびしょに　なる。\xfffe自分が　いるあいだ\xfffeほのおタイプの　技を　弱める。
-静かに　精神を　統一し\xfffe心を　鎮めることで　自分の\xfffe特攻と　特防を　あげる。
-はっぱを　剣のように　あやつり\xfffe相手を　切りつけて　攻撃する。\xfffe急所に　当たりやすい。
-神秘的で　力づよい　舞を\xfffe激しく　おどる。自分の\xfffe攻撃と　素早さを　あげる。
-硬い　岩石を\xfffe相手に　発射して　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-電撃を　素早く\xfffe相手に　浴びせる。\xfffe攻撃は　必ず　命中する。
-水の　振動を\xfffe相手に　与えて　攻撃する。\xfffe相手を　混乱させることが　ある。
-技を　使った　２ターン後に\xfffe無数の　光の　束で\xfffe相手を　攻撃する。
-フルパワーで　相手を　攻撃する。\xfffe使うと　反動で\xfffe自分の　特攻が　がくっと　さがる。
-地面に　降りて　体を　やすめる。\xfffe最大ＨＰの　半分の\xfffeＨＰを　回復する。
-５ターンの　あいだ\xfffe重力を　強くして　ふゆうや\xfffe空へ　飛ぶ　技を　使えなくする。
-あくタイプに　効果がない　技や\xfffe回避率の　高い　相手に\xfffe攻撃が　当たるように　なる。
-眠り状態の　相手に\xfffe大きな　ダメージを　与える。　\xfffeかわりに　相手は　眠りから　さめる。
-強くて　重い　こぶしを\xfffeふるって　ダメージを　与える。\xfffe自分の　素早さが　さがる。
-体を　高速に　回転させて\xfffe体当たりする。相手より　素早さが\xfffe遅いほど　強い。
-自分は　ひんしに　なるが\xfffe控えから　でてくる　ポケモンの\xfffe状態異常と　ＨＰを　回復する。
-相手が　ＨＰの　半分くらい\xfffeきずを　おっていると　技の　威力が\xfffe２倍に　なる。
-きのみから　力を　もらい\xfffe攻撃する。持たせた　きのみで\xfffe技の　タイプと　威力が　変わる。
-まもるや　みきりを　している\xfffe相手に　攻撃が　できる。\xfffe守りの　効果を　解除させる。
-くちばしで　攻撃。\xfffe相手が　きのみを　持っているとき\xfffe食べて　きのみの　効果を　受けられる。
-激しく　吹きあれる\xfffe風の渦を　つくり　４ターンの　あいだ\xfffe味方　全員の　素早さを　あげる。
-つぼおしで　体を　活性化させる。\xfffe能力の　どれか　１つを\xfffeぐーんと　あげる。
-技を　だす前に\xfffe最後に　受けた　技の　ダメージを\xfffe大きくして　だした　相手に　返す。
-攻撃したあと\xfffeものすごい　スピードで　もどってきて\xfffe控えの　ポケモンと　入れ替わる。
-守りを　捨てて　相手の　ふところに\xfffe突撃する。自分の\xfffe防御と　特防が　さがる。
-ためこんで　攻撃する。\xfffe相手より　あとに　攻撃できると\xfffe技の　威力は　２倍に　なる。
-そのターンに　相手が\xfffeすでに　ダメージを　受けていたら\xfffe技の　威力は　２倍に　なる。
-持たせた　道具を　使えなくする。\xfffeトレーナーも　その　ポケモンには\xfffe道具を　使えない。
-持たせた　道具を\xfffe素早く　投げつけて　攻撃する。\xfffe道具で　威力と　効果が　変わる。
-超能力で　暗示を　かけて\xfffe自分の　受けている　状態異常を\xfffe相手に　うつす。
-きりふだの　残り　ＰＰが\xfffe少なければ　少ないほど\xfffe技の　威力が　あがる。
-５ターンの　あいだ　技や\xfffe特性や　持っている　道具によって\xfffeＨＰを　回復　できなくする。
-強く　締めあげて　攻撃を　する。\xfffe相手の　ＨＰが　残っているほど\xfffe威力は　あがる。
-超能力で\xfffe自分の　攻撃と　防御の　\xfffe力を　交換する。
-胃液を　相手の\xfffe体に　吐きつける。ついた　胃液は\xfffe相手の　特性の　効果を　消す。
-天に　むかって　おいのりを　ささげ\xfffe相手の　攻撃を\xfffe急所に　当たらなくする。
-威力を　あげて　相手が\xfffeだそうとする　技を　先にだす。\xfffe先に　だせないと　失敗する。
-直前に　でた　技を　まねして\xfffe同じ　技を　だす。\xfffe技が　でていないと　失敗する。
-超能力で　自分と　相手の\xfffe攻撃と　特攻の\xfffe能力変化を　入れ替える。
-超能力で　自分と　相手の\xfffe防御と　特防の\xfffe能力変化を　入れ替える。
-能力変化で\xfffe相手が　パワーアップ　しているほど\xfffe技の　威力が　あがる。
-戦闘中に　おぼえている　技を\xfffeすべて　使うと　はじめて　だせる\xfffeとっておきの　技。
-心を　なやませる　タネを\xfffe植えつける。相手を　眠れなくして\xfffe特性を　ふみんに　する。
-相手より　先に　攻撃　できる。\xfffe相手が　だす技が\xfffe攻撃技でないと　失敗する。
-相手の　足下に　どくびしを\xfffeしかける。交代で　でてきた　相手の\xfffeポケモンに　毒を　おわせる。
-超能力で\xfffe自分と　相手に　かかっている\xfffe能力変化を　入れ替える。
-自分の　体の　周りを\xfffe水で　つくった　ベールで　おおう。\xfffe毎ターン　ＨＰを　回復する。
-電気で　つくった　磁力の　力で\xfffe宙に　浮かぶ。\xfffe５ターンの　あいだ　浮遊できる。
-炎を　まとって　突進する。\xfffe自分も　かなり　ダメージを　受ける。\xfffeやけど状態に　することが　ある。
-相手の　体に\xfffe衝撃波を　当てて　攻撃する。\xfffeまひ状態に　することが　ある。
-体の　奥から　波導の　力を\xfffe相手に　うち放つ。\xfffe攻撃は　必ず　命中する。
-自分の　体を　磨いて　空気の\xfffe抵抗を　少なくする。素早さを\xfffeぐーんと　あげることが　できる。
-毒に　そまった　触手や　腕で\xfffe相手を　突き刺す。\xfffe毒状態に　することが　ある。
-体から　悪意に　みちた\xfffe恐ろしい　オーラを　発する。\xfffe相手を　ひるませることが　ある。
-一瞬の　すきを　ついて\xfffe相手を　切りはらう。\xfffe急所に　当たりやすい。
-激しく　あれくるう　荒波の　ように\xfffe大きな　しっぽを　ふって\xfffe相手を　攻撃する。
-硬い　殻を　もつ　大きな　タネを\xfffe上から　たたきつけて\xfffe相手を　攻撃する。
-空をも　切り裂く\xfffe空気の　刃で　攻撃する。\xfffe相手を　ひるませることが　ある。
-カマや　ツメを　ハサミのように\xfffe交差させながら　相手を　切り裂く。\xfffe
-はねの　振動で　音波を　おこして\xfffe攻撃する。相手の　特防を\xfffeさげることが　ある。
-大きな　口から　衝撃波を\xfffeまきおこして　相手を　攻撃する。\xfffe
-すさまじい　殺気で　威圧しながら\xfffe体当たりする。\xfffe相手を　ひるませることが　ある。
-宝石のように　きらめく　光を\xfffe発射して　相手を　攻撃する。\xfffe
-こぶしから　相手の　力を　吸い取る。\xfffe与えた　ダメージの\xfffe半分の　ＨＰを　回復できる。
-こぶしを　ふって\xfffe真空の　波を　まきおこす。\xfffe必ず　先制攻撃できる。
-気合を　高めて\xfffeありったけの　力を　放出する。\xfffe相手の　特防を　さげることが　ある。
-自然から　集めた\xfffe命の力を　発射する。\xfffe相手の　特防を　さげることが　ある。
-はねを　おりたたみ\xfffe低空飛行で　突撃する。\xfffe自分も　かなり　ダメージを　受ける。
-相手の　足下へ　大地の力を\xfffe放出する。相手の　特防を\xfffeさげることが　ある。
-目にも　留まらぬ　速さで\xfffe自分と　相手の　\xfffe持ち物を　交換する。
-持てる　力を　すべて　使って\xfffe相手に　突撃する。\xfffe次の　ターンは　動けなくなる。
-悪いことを　考えて\xfffe頭を　活性化させる。\xfffe自分の　特攻を　ぐーんと　あげる。
-弾丸の　ような　速くて　硬い\xfffeパンチを　相手に　くりだす。\xfffe必ず　先制攻撃　できる。
-相手から　技を　受けていると\xfffeその　相手に　対して\xfffe技の　威力が　２倍に　なる。
-氷の塊を　一瞬で　つくり\xfffe相手に　素早く　放つ。\xfffe必ず　先制攻撃　できる。
-影から　つくった　鋭い　ツメで\xfffe相手を　切り裂く。\xfffe急所に　当たりやすい。
-電気を　ためた　キバで　かみつく。\xfffe相手を　ひるませたり\xfffeまひ状態に　することが　ある。
-冷気を　ひめた　キバで　かみつく。\xfffe相手を　ひるませたり\xfffeこおり状態に　することが　ある。
-炎を　まとった　キバで　かみつく。\xfffe相手を　ひるませたり\xfffeやけど状態に　することが　ある。
-影を　のばして\xfffe相手の　背後から　攻撃する。\xfffe必ず　先制攻撃　できる。
-硬い　泥の　弾を\xfffe相手に　発射して　攻撃する。\xfffe命中率を　さげることが　ある。
-実体化させた\xfffe心の　刃で　相手を　切り裂く。\xfffe急所に　当たりやすい。
-思念の　力を\xfffe額に　集めて　攻撃する。\xfffe相手を　ひるませることが　ある。
-磨きあげられた　体から\xfffeせん光の　力を　相手に　放つ。\xfffe命中率を　さげることが　ある。
-体の　光を　一点に　集めて\xfffe力を　放つ。\xfffe相手の　特防を　さげることが　ある。
-すごい　勢いで　相手に\xfffeつっこみ　攻撃する。\xfffe相手を　混乱させることが　ある。
-強い風で　相手の　リフレクターや\xfffeひかりのかべ　などを　はらいのける。\xfffe回避率も　さげる。
-まか不思議な　空間を　つくる。\xfffe５ターンの　あいだ\xfffe遅い　ポケモンから　行動できる。
-天空から　いん石を　\xfffe相手に　落とす。使うと　反動で\xfffe自分の　特攻が　がくっと　さがる。
-まばゆい　電撃で　自分の\xfffe周りに　いるものを　攻撃する。\xfffeまひ状態に　することが　ある。
-真っ赤な　炎で　自分の\xfffe周りに　いるものを　攻撃する。\xfffeやけど状態に　することが　ある。
-とがった　はっぱで　相手に　あらしを\xfffeおこす。使うと　反動で\xfffe自分の　特攻が　がくっと　さがる。
-ツタや　触手を　激しく　ふるって\xfffe相手を　たたきつけ　攻撃する。\xfffe
-巨大な　岩を\xfffe相手に　発射して　攻撃する。\xfffe次の　ターンは　動けなくなる。
-毒の　刃で　相手を　切り裂く。\xfffe毒状態に　することが　あり\xfffe急所にも　当たりやすい。
-汚い　ゴミを\xfffe相手に　ぶつけて　攻撃する。\xfffe毒状態に　することが　ある。
-鋼の　ような\xfffe硬い　頭で　攻撃する。\xfffe相手を　ひるませることが　ある。
-相手に　吸いつく\xfffe鋼の　爆弾を　発射する。\xfffe攻撃は　必ず　命中　する。
-とがった　岩を\xfffe相手に　突き刺して　攻撃する。\xfffe急所に　当たりやすい。
-♂なら♀を　♀なら♂を　誘惑して\xfffe相手の　特攻を　がくっと　さげる。\xfffe
-相手の　周りに　無数の　岩を\xfffe浮かべて　交代で　でてきた　相手の\xfffeポケモンに　ダメージを　与える。
-草を　からませて　相手を\xfffe転ばせる。相手が　重いほど\xfffe威力が　あがる。
-おぼえた　言葉で\xfffe音波を　おこして　攻撃する。\xfffe相手を　混乱させることが　ある。
-無数の　光弾を　相手に　放出する。\xfffe自分の　持つ　プレートに　より　\xfffeタイプが　変わる。
-かみついて　攻撃する。\xfffe相手が　きのみを　持っているとき\xfffe食べて　きのみの　効果を　受けられる。
-電撃の　束を　相手に\xfffe発射する。電気を　ためて　自分の\xfffe特攻を　あげることが　ある。
-硬い　胴体を\xfffe相手に　たたきつけて　攻撃する。\xfffe自分も　かなり　ダメージを　受ける。
-目にも　留まらぬ　ものすごい　速さで\xfffe相手に　つっこむ。\xfffe必ず　先制攻撃　できる。
-しもべを　呼びだして\xfffe相手に　むかって　攻撃させる。\xfffe急所に　当たりやすい。
-しもべを　呼びだして　自分の　体に\xfffeおおい　つかせる。防御と　特防を\xfffeあげることが　できる。
-しもべを　呼びだして　きずを　治す。\xfffe最大ＨＰの　半分\xfffe自分の　ＨＰを　回復する。
-命を　懸けて　こん身の　力で\xfffe相手に　ずつきを　する。自分も\xfffeものすごい　ダメージを　受ける。
-しっぽなどを　使い\xfffe相手を　たたいて　攻撃する。\xfffe２回連続で　ダメージを　与える。
-時間が　ゆがむほどの　力を\xfffeうちだして　相手を　攻撃する。\xfffe次の　ターンは　動けなくなる。
-周りの　空間ごと　相手を\xfffe引き裂き　ダメージを　与える。\xfffe急所に　当たりやすい。
-自分は　ひんしに　なるが\xfffe控えから　でてくる　ポケモンの\xfffeすべての　状態を　回復する。
-すさまじい　力で　相手を　にぎりつぶす。\xfffe相手の　ＨＰが　残っているほど\xfffe威力が　あがる。
-激しく　燃えたぎる　炎の　なかに\xfffe４ー５ターンの　あいだ\xfffe相手を　閉じこめて　攻撃する。
-暗黒の　世界に　ひきずり　落として\xfffe相手を　眠り状態に　する。\xfffe
-体の　中から　衝撃波を\xfffe発生させる。相手の　特防を　\xfffeがくっと　さげることが　ある。
-みのけも　よだつ　突風で　相手を\xfffe攻撃する。自分の　すべての\xfffe能力が　あがることが　ある。
-１ターン目で　姿を　消して\xfffe２ターン目に　相手を　攻撃する。\xfffe守っていても　攻撃は　当たる。
-ツメを　磨いて　鋭く　する。\xfffe自分の　攻撃と　\xfffe命中率を　あげる。
-味方全員に　当たる　攻撃を\xfffe１ターンの　あいだ　防ぐ。\xfffe連続で　だすと　失敗しやすい。
-超能力で　自分と　相手の\xfffe防御と　特防を　たして\xfffe半分に　わける。
-超能力で　自分と　相手の\xfffe攻撃と　特攻を　たして\xfffe半分に　わける。
-まか不思議な　空間を　つくる。\xfffe５ターンのあいだ　すべてのポケモンの\xfffe防御と　特防が　入れ替わる。
-不思議な　念波を　実体化して\xfffe相手を　攻撃する。\xfffe物理的な　ダメージを　与える。
-特殊な　毒液を　浴びせかける。\xfffe毒状態の　相手には\xfffe威力が　２倍に　なる。
-体の　ムダな　部分を　削る。　\xfffe自分の　素早さを　ぐーんと　あげて\xfffe体重も　軽くなる。
-イライラさせる　粉を　自分に\xfffeふりかけて　注意を　ひく。相手の\xfffe攻撃を　すべて　自分に　むける。
-超能力で　相手を　浮かせる。\xfffe３ターンの　あいだ　攻撃が\xfffe相手に　当たりやすく　なる。
-まか不思議な　空間を　つくる。\xfffe５ターンのあいだ　すべてのポケモンの\xfffe道具の　効果が　なくなる。
-石や　弾を　投げて　飛んでいる\xfffe相手を　攻撃する。相手は\xfffeうち落とされて　地面に　落ちる。
-強烈な　一撃を\xfffe相手に　くりだす。攻撃は\xfffe必ず　急所に　当たる。
-当たると　はじける　炎で　相手を\xfffe攻撃する。はじけた　炎は\xfffe隣の　相手にも　ふりかかる。
-ヘドロの　波で　自分の\xfffe周りに　いるものを　攻撃する。\xfffe毒状態に　することが　ある。
-神秘的で　美しい　舞を\xfffe軽やかに　おどる。自分の　特攻と\xfffe特防と　素早さを　あげる。
-重たい　体で　相手に　ぶつかって\xfffe攻撃する。自分が　相手より\xfffe重いほど　威力が　あがる。
-不思議な　電波で　周りに　いる\xfffe自分と　同じ　タイプの　\xfffeポケモンに　ダメージを　与える。
-電気の　塊を　相手に\xfffeぶつける。相手より　素早さが\xfffe速いほど　威力が　あがる。
-たくさんの　水を　浴びせかけて\xfffe相手を　みずタイプに　する。\xfffe
-炎を　まとい　相手を　攻撃する。\xfffe力を　ためて　自分の\xfffe素早さを　あげる。
-とぐろを　まいて　集中する。\xfffe自分の　攻撃と　防御と　\xfffe命中率を　あげる。
-素早い　動きで　相手の　足を\xfffeねらって　攻撃する。\xfffe相手の　素早さを　さげる。
-相手を　とかす　液体を\xfffe吐きだして　攻撃する。\xfffe相手の　特防を　がくっと　さげる。
-相手の　力を　利用する。\xfffe戦っている　相手の　攻撃が\xfffe高いほど　ダメージが　あがる。
-なぞの　念波を　相手に　送る。\xfffe念波を　受けとった　相手は　\xfffe特性が　たんじゅんに　なる。
-不思議な　リズムで　おどる。\xfffe動きを　まねさせて　自分と　相手の\xfffe特性を　同じに　する。
-相手の　行動を　サポートして\xfffe自分の　行動の　あとに\xfffe続けて　動けるように　する。
-歌で　相手を　攻撃する。\xfffeみんなで　輪唱すると　続けて\xfffeだすことが　でき　威力も　あがる。
-響く　声で　相手を　攻撃する。\xfffe毎ターン　だれかが　技を\xfffe使い続けると　威力が　あがる。
-すきを　みて　堅実に　攻撃する。\xfffe相手の　能力変化に　\xfffe関係なく　ダメージを　与える。
-特殊な　泥の　塊を\xfffe相手に　投げつけて　攻撃する。\xfffe能力変化を　もとに　もどす。
-蓄積された　パワーで　相手を\xfffe攻撃する。自分の　能力が\xfffeあがっているほど　威力が　あがる。
-自分と　味方を　相手の\xfffe先制攻撃から　守る。\xfffe連続で　だすと　失敗しやすい。
-不思議な　力で　テレポートして\xfffe自分と　味方の　居場所を\xfffe入れ替える。
-熱く　煮えたぎる　水を\xfffe相手に　発射して　攻撃する。\xfffeやけど状態に　することが　ある。
-殻を　やぶって　自分の　防御\xfffe特防を　さげるが　攻撃　特攻\xfffe素早さを　ぐーんと　あげる。
-いやしのはどうを　とばして\xfffe最大ＨＰの　半分\xfffe相手の　ＨＰを　回復する。
-たたみかける　ように　攻撃する。\xfffe状態異常の　相手に\xfffe大きな　ダメージを　与える。　
-１ターン目で　相手を　空へ　連れさり\xfffe２ターン目に　落として　攻撃する。\xfffe連れさられた　相手は　動けない。
-歯車を　回して\xfffe自分の　攻撃を　あげる　だけでなく\xfffe素早さも　ぐーんと　あげる。
-相手を　投げとばして\xfffe控えの　ポケモンを　ひきずりだす。\xfffe野生の　場合は　戦闘が　終わる。
-炎で　相手を　攻撃する。\xfffe相手が　きのみを　持っているとき\xfffe燃やして　使えなくする。
-相手を　おさえつけて\xfffe行動の　順番を\xfffe最後に　する。
-軽やかに　相手を　攻撃する。\xfffe自分が　道具を　持っていないとき\xfffe大きな　ダメージを　与える。　
-相手の　タイプを　反射して\xfffe自分も　同じ　タイプに　なる。\xfffe
-倒れた　味方の　かたきを　討つ。\xfffe前の　ターンに　味方が\xfffe倒されていると　威力が　あがる。　
-命懸けで　相手を　攻撃する。\xfffe自分は　ひんしに　なるが　相手に\xfffeＨＰ分の　ダメージを　与える。
-相手が　道具を　持っていないとき\xfffe自分が　持っている　道具を\xfffe相手に　わたす。
-激しい　炎で\xfffe相手を　包みこみ　攻撃する。\xfffeやけど状態に　する。
-水の柱で　攻撃する。\xfffeほのおと　組みあわせると　威力が\xfffeあがって　空に　にじが　かかる。
-炎の柱で　攻撃する。\xfffeくさと　組みあわせると　威力が\xfffeあがって　周りが　火の海に　なる。
-草の柱で　攻撃する。\xfffeみずと　組みあわせると　威力が\xfffeあがって　あたりが　湿原に　なる。
-攻撃したあと\xfffeものすごい　スピードで　もどってきて\xfffe控えポケモンと　入れ替わる。
-抵抗して　相手を　攻撃する。\xfffe相手の　特攻を　さげる。\xfffe
-地面を　踏みならして　自分の\xfffe周りに　いるものを　攻撃する。\xfffe相手の　素早さを　さげる。
-冷たい　息を\xfffe相手に　吹きつけて　攻撃する。\xfffe必ず　急所に　当たる。
-相手を　はじきとばして\xfffe控えの　ポケモンを　ひきずりだす。\xfffe野生の　場合は　戦闘が　終わる。
-自分を　奮いたてて\xfffe攻撃と　特攻を　あげる。\xfffe
-電気の　ネットで\xfffe相手を　捕まえて　攻撃する。\xfffe相手の　素早さを　さげる。
-電気を　まとって\xfffe相手に　ぶつかって　攻撃する。\xfffe自分も　少し　ダメージを　受ける。
-ドリルのように　体を　回転しながら\xfffe相手に　体当たりする。\xfffe急所に　当たりやすい。
-体の　硬い部分で　相手を\xfffeたたいて　攻撃する。\xfffe２回連続で　ダメージを　与える。
-かわいい　しぐさで　油断させて\xfffe強烈な　一撃を　浴びせる。\xfffe相手を　ひるませることが　ある。
-つのを　突き刺して　相手の　養分を\xfffe吸い取る。与えた　ダメージの\xfffe半分の　ＨＰを　回復できる。
-長い　つので　切りつけて　攻撃する。\xfffe相手の　能力変化に　\xfffe関係なく　ダメージを　与える。
-鋭い　貝殻で　切りつけて\xfffe攻撃する。相手の　防御を\xfffeさげることが　ある。
-燃える　体で　相手に　ぶつかって\xfffe攻撃する。自分が　相手より\xfffe重いほど　威力が　あがる。
-鋭い　はっぱで　相手を\xfffe包みこんで　攻撃する。\xfffe命中率を　さげることが　ある。
-まるめた　体で　回転して\xfffe相手を　おしつぶす。\xfffe相手を　ひるませることが　ある。
-フワフワの　綿毛で　自分の\xfffe体を　包みこんで　守る。\xfffe防御を　ぐぐーんと　あげる。
-暗黒の　衝撃波を\xfffeとばして　相手を　攻撃する。\xfffe命中率を　さげることが　ある。
-不思議な　念波を　実体化して\xfffe相手を　攻撃する。\xfffe物理的な　ダメージを　与える。
-硬い　しっぽで\xfffe相手を　たたいて　攻撃する。\xfffe２ー５回の　あいだ　連続で　だす。
-強烈な　風で　相手を\xfffe包みこんで　攻撃する。\xfffe相手を　混乱させることが　ある。
-すごい　アフロの　頭で\xfffe相手に　突進して　攻撃する。\xfffe自分も　少し　ダメージを　受ける。
-鋼鉄の　ギアを　相手に\xfffe投げつけて　攻撃する。\xfffe２回連続で　ダメージを　与える。
-真っ赤な　炎で　自分の\xfffe周りに　いるものを　攻撃する。\xfffeやけど状態に　することが　ある。
-光弾を　相手に　放出する。\xfffe自分の　持つ\xfffeカセットにより　タイプが　変わる。
-いにしえのうたを　相手に　聞かせて\xfffe心に　うったえて　攻撃する。\xfffe眠り状態に　することが　ある。
-長い　つので　切りつけて　攻撃する。\xfffeつのが　まとった　不思議な　力は\xfffe物理的な　ダメージを　与える。
-凍えるような　冷気を\xfffe相手に　吹きつけて　攻撃する。\xfffe相手の　素早さを　さげる。
-ぼうだいな　電気を　身に　まとって\xfffe相手に　突進して　攻撃する。\xfffeまひ状態に　することが　ある。
-美しくも　激しい　青い炎で\xfffe相手を　包みこんで　攻撃する。\xfffeやけど状態に　することが　ある。
-炎を　まとい　はばたいて　相手を\xfffe攻撃する。自分の　特攻が\xfffeあがることが　ある。
-電気を　まとった　氷の　塊で\xfffe２ターン目に　相手を　たたきつける。\xfffeまひ状態に　することが　ある。
-すべてを　凍らせる　激しい　冷気で\xfffe２ターン目に　相手を　包みこむ。\xfffeやけど状態に　することが　ある。
-まくしたてる　ように　怒鳴りつけて\xfffe相手の　特攻を　さげる。\xfffe
-大きな　氷柱を\xfffe激しく　ぶつけて　攻撃する。\xfffe相手を　ひるませることが　ある。
-しゃく熱の　炎を　額から\xfffe発生させて　捨て身の　体当たり。\xfffe防御　特防　素早さが　さがる。
-巨大な　炎を　たたきつける。\xfffe巨大な　雷の　影響を受け\xfffe技の　威力が　あがる。
-巨大な　雷を　たたきつける。\xfffe巨大な　炎の　影響を受け\xfffe技の　威力が　あがる。
+﻿- \ Xfffe-\ xfffe-\ xfffe-\ xfffe-
+And using the long tail and get \ xfffe Hatai attacking the opponent. \ Xfffe
+In sharp chop \ xfffe beating your opponent to attack. \ Xfffe per the vitals easy.
+The clothes slap king \ xfffe beating the opponent to attack. \ Xfffe2 begin to-5 times in a row between.
+Thank punch etc \ xfffe Naguritsuke to attack the opponent. \ Xfffe2 begin to-5 times in a row between.
+Kometa punch force \ xfffe to attack opponents. \ Xfffe
+The other body \ xfffe attack throw gold coins. \ Xfffe get money after the battle.
+Kometa fire punch \ xfffe to attack the opponent. \ Xfffe may burn state.
+Kometa a cold punch \ xfffe to attack the opponent. \ Xfffe ice conditions may be.
+Kometa a surprise punch \ xfffe to attack the opponent. \ Xfffe may be paralysis.
+The hard sharp claws sharp \ xfffe attack against scratching. \ Xfffe
+The person across from both sides \ xfffe inflict damage. \ Xfffe
+The big scissors \ xfffe cuts the opponent to attack. \ Xfffe it hits a single blow to the brink.
+Making the blade of the wind \ xfffe2 to attack your opponent on turn. \ Xfffe per the vitals and easy.
+Dance dancing vigorously to fight \ xfffe enhance fired. \ Xfffe Gunto to raise your attack.
+And sickle claws, etc. \ xfffe slashed to attack the opponent. \ Xfffe Kiru can thin trees.
+Gusty winds occurred as the wings \ xfffe attack to hit the opponent. \ Xfffe
+Kiku Hiroshi splendid wings spread out \ xfffe attack to hit the opponent. \ Xfffe
+Opponents to 吹Kitobashi \ xfffe Hikizuridasu the Pokemon ahead. \ Xfffe wild when the battle ends.
+Fly to the sky on turn 1 \ xfffe2 to attack your opponent on turn. \ Xfffe can also fly into town to know.
+Bodies and long vines and use \ xfffe4 between the turn-5 \ xfffe tighten the opponent to attack.
+Use the long tail, and vines such as \ xfffe pushed the opponent to attack. \ Xfffe
+The slender vine bent like a whip \ xfffe pushed the opponent to attack. \ Xfffe
+The big foot \ xfffe stamping on opponent to attack. \ Xfffe sometimes daunting opponent.
+Ketobashi legs with opponents in 2 \ xfffe attack. Consecutive 2 \ xfffe damage.
+The amazing power kick Kometa \ xfffe Ketobashi to attack the opponent. \ Xfffe
+In the high jump kick \ xfffe to attack the opponent. \ Xfffe damage and remove yourself.
+While rotating the body quickly \ xfffe Ketobashi to attack the opponent. \ Xfffe
+Put sand in the face of the opponent \ xfffe speak to the accuracy. \ Xfffe
+Head to 突Kidashi \ xfffe Tsukkon attack on straight. \ Xfffe sometimes daunting opponent.
+Togattatsu so sharp \ xfffe to attack opponents. \ Xfffe
+And two beak \ xfffe struck the opponent to attack. \ Xfffe2 begin to-5 times in a row between.
+That the rotation Surutsu \ xfffe stabbing attack opponents. \ Xfffe it hits a single blow to the brink.
+In the body unto the other \ xfffe Iki hit attack. \ Xfffe
+In general \ xfffe attack against Noshikakari. \ Xfffe may be paralysis.
+And vines with long body and Tsukatsu \ xfffe4 turn between -5 \ xfffe Makitsui to attack the opponent.
+The crazy \ xfffe attacks against opponents. \ Xfffe little damage, too.
+ー 3-turn between 2 \ xfffe violent opponent to attack. \ Xfffe after violent acts confused.
+One's life \ xfffe against rushing attack. \ Xfffe much damage, too.
+Cute waving its tail from side to side \ xfffe alert invites. \ Xfffe speak to an opponent's defense.
+Firms poisonous \ xfffe stabbing attack opponents. \ Xfffe may poisons.
+Against the elasticity of the stabbing 2 \ xfffe2 consecutive damage. \ Xfffe may poisons.
+Firms keen \ xfffe to launch an attack against. \ Xfffe2 begin to-5 times in a row between.
+Scared piercingly \ xfffe speak to an opponent's defense. \ Xfffe
+Sharp teeth, sharp \ xfffe bite and attack. \ Xfffe sometimes daunting opponent.
+Cute Nakigoe let \ xfffe guard let me catch a feel \ xfffe speak to an opponent's offense.
+'re Missing person \ xfffe Hikizuridasu the Pokemon ahead. \ Xfffe wild when the battle ends.
+Clean cozy \ xfffe voice let \ xfffe sleep state to the other party.
+A specialized sound \ xfffe emanating from the body \ xfffe confuse the opponent.
+Shock wave \ xfffe attack to hit the opponent. \ Xfffe20 decided to give damage.
+To stop the movement of the opponent \ xfffe technique was however just before \ xfffe4 be unusable during the turn.
+Over against the strong acid \ xfffe attack. Special protection against the \ xfffe may speak to.
+A small flame \ xfffe to launch an attack against. \ Xfffe may burn state.
+Intense fire \ xfffe to launch an attack against. \ Xfffe may burn state.
+White mist covering the body. \ Xfffe5 between turns against \ xfffe capacity will not be able pigtails.
+Water vigorously \ xfffe fire to attack the other. \ Xfffe
+Amounts of water \ xfffe intense momentum \ xfffe to launch attacks on others.
+My big wave \ xfffe to attack those around them. \ Xfffe also promote swimming in the water.
+Chilled beams \ xfffe to launch attacks on others. \ Xfffe ice conditions may be.
+A severe snowstorm \ xfffe blows against attack. \ Xfffe ice conditions may be.
+A strange light \ xfffe to launch attacks on others. \ Xfffe sometimes confusing.
+Bubbles vigorously \ xfffe to launch attacks on others. \ Xfffe may speak to the quickness.
+Beam Nijiiro \ xfffe to launch an attack against. \ Xfffe may speak to the attack.
+A powerful beam \ xfffe to launch an attack against. \ Xfffe get stuck next turn.
+So sharply pointed beak guy \ xfffe hit the opponent to attack. \ Xfffe
+While rotating the pointed beak \ xfffe stabbing attack opponents. \ Xfffe
+Each one on the ground \ xfffe throw the opponent to attack. \ Xfffe little damage, too.
+強Kukeri foot \ xfffe 転Ba let your opponent attack. \ Xfffe go up against the Power is so heavy.
+Physical attacks from people who \ xfffe to double the damage \ xfffe return to the same person.
+Bypass using gravity cast. \ Xfffe same level of damage to your \ xfffe give the other party.
+The power of Kon身 \ xfffe Naguritsuke attacking the opponent. \ Xfffe can push a heavy rock.
+Absorb nutrients attack. \ Xfffe the damage done to the opponent \ xfffe HP can recover half.
+Absorb nutrients attack. \ Xfffe the damage done to the opponent \ xfffe HP can recover half.
+HP partner had implanted a \ xfffe absorb each turn a little bit \ xfffe your HP to recover.
+Stretch your body \ xfffe growth will be Kiku Hiroshi \ xfffe give a suicide attack.
+Bomber skip Ha \ xfffe slashed to attack the opponent. \ Xfffe per the vitals and easy.
+Collected in full light on turn 1 \ xfffe2 light on turn a bunch of \ xfffe fire to attack.
+Poisonous powder \ xfffe up a lot Furimai \ xfffe that poisons the opponent.
+Powder numb \ xfffe up a lot Furimai \ xfffe paralysis to his opponent.
+Drowsiness powder \ xfffe up a lot Furimai \ xfffe sleep state to the other party.
+During the three flowers turn ー 2 \ xfffe Makichirashi opponent to attack. \ Xfffe after Makichirashita confused.
+吹Kidashita thread from his mouth to Makitsuke \ xfffe speak to the quickness of the opponent. \ Xfffe
+The shock wave of anger \ xfffe attack to hit the opponent. \ Xfffe40 decided to give damage.
+Intense vortices inside the flame spray \ xfffe4 turn between -5 \ xfffe shut the opponent to attack.
+Electrical stimulation \ xfffe attack leveled against you. \ Xfffe may be paralysis.
+A strong shock \ xfffe attack leveled against you. \ Xfffe may be paralysis.
+Stage a weak shock that \ xfffe paralysis to his opponent. \ Xfffe
+Intense lightning \ xfffe dropped against attack. \ Xfffe may be paralysis.
+Has raised a small rock \ xfffe throw against attacks. \ Xfffe
+Impact of the earthquake in his \ xfffe attacks around those. \ Xfffe
+The crack of crack \ xfffe to attack your opponent down. \ Xfffe it hits a single blow to the brink.
+Dive in the second turn on turn 1 \ xfffe to attack the opponent. \ Xfffe can also escape from what shoes.
+Deadly poison that bring a partner. \ Xfffe turn the Proceed as \ xfffe poison damage will increase.
+A weak psychic powers \ xfffe sent to attack opponents. \ Xfffe may confuse the opponent.
+Send a strong psychic powers against \ xfffe attack. Special protection against the \ xfffe may speak to.
+Over the lazy suggestion \ xfffe sleep state to the other party. \ Xfffe
+Sleeping forces \ xfffe with drawer from the back of the body \ xfffe give their attacks.
+Pulling up to lighten the body force \ xfffe moving at high speed. \ Xfffe Gunto to give his quickness.
+留Maranu also like blue eyes \ xfffe stick to the other. \ Xfffe can always strike.
+When the attack began Technology \ xfffe the power of anger and get \ xfffe attack will be raised.
+Stop fighting with wild Pokemon. \ Xfffe went into the last \ xfffe Pokesen a town can go.
+Showing a frightening vision \ xfffe the same level as their \ xfffe provide against damage.
+Other techniques last used \ xfffe battle between \ xfffe the technique can be yourself.
+Add your ears Fusagitaku Omowazu \ xfffe nasty with heavy Oto \ xfffe Ku and speak to the defense of others.
+Alter ego made a quick movement \ xfffe Madowa let your opponent \ xfffe give an evasion.
+Cells will be playing \ xfffe their maximum HP's \ xfffe half to recover HP.
+With great force the body \ xfffe hard for the body \ xfffe give their defense.
+Let me Chidjime smaller body \ xfffe their avoidance rate \ xfffe Gunto give.
+To spray and smoke and ink \ xfffe speak to the opponent's hit rate. \ Xfffe
+Strange light \ xfffe Madowa Let me make the other. \ Xfffe confuse the opponent.
+Protect themselves in the crowded dive shell \ xfffe give their defense. \ Xfffe
+Rounding up the body Chidjikomari \ xfffe give their defense. \ Xfffe
+To make a sturdy wall \ xfffe Gunto give their defense. \ Xfffe
+I wonder at all between turns 5 \ xfffe receive special attack from the other \ xfffe reduce damage.
+A battle with heavy black mist \ xfffe of all Pokemon are in \ xfffe revert to change based on ability.
+I wonder at all between turns 5 \ xfffe received from physical attacks against \ xfffe reduce damage.
+Exploitable fired inhale deeply. \ Xfffe his attack \ xfffe more likely to become vital part.
+Endure the attack to turn between 2 \ xfffe to double the damage received \ xfffe return to the other.
+Pretending to stimulate your brain finger \ xfffe from among all the Science and Technology \ xfffe Kuridasu to any one.
+Technique used to imitate the other \ xfffe I also use the same technique. \ Xfffe
+Causing the explosion of his \ xfffe to attack those around them. \ Xfffe brink after using a.
+The egg's might Kina Hiroshi \ xfffe throw against attacks. \ Xfffe
+Long tongue \ xfffe licking turn to attack the opponent. \ Xfffe may be paralysis.
+Dirty gas \ xfffe blows against attack. \ Xfffe may poisons.
+The dirty sludge \ xfffe throw against attacks. \ Xfffe may poisons.
+Bone holding in her hands in \ xfffe Naguritsuke attacking the opponent. \ Xfffe sometimes daunting opponent.
+Flame stretch \ xfffe do my baking partner. \ Xfffe may burn state.
+Against stick like crazy. \ Xfffe sometimes daunting opponent. \ Xfffe Noboreru waterfall to swim well.
+Buatsui very sturdy shell \ xfffe4 between the turn-5 \ xfffe across the opponent to attack.
+The star's light to launch \ xfffe to attack the opponent. \ Xfffe sure to hit the attack.
+On turn my head to Hikkome 1 \ xfffe give protection. \ Xfffe2 to attack your opponent on turn.
+Firms keen \ xfffe to launch an attack against. \ Xfffe2 begin to-5 times in a row between.
+Tentacles or vines twine and put \ xfffe attack. The opponent's quickness \ xfffe may speak to.
+From head to \ xfffe forget something in an instant \ xfffe Gunto to give their special protection.
+Note to bend a spoon shoved \ xfffe speak to the opponent's hit rate. \ Xfffe
+Half the maximum HP \ xfffe your HP to recover. \ Xfffe a friend can split the HP.
+The knee from jumping diarrhea \ xfffe to attack the opponent. \ Xfffe damage and remove yourself.
+Scared by the pattern of stomach \ xfffe paralysis that bring a partner. \ Xfffe
+Eat sleep dream partner \ xfffe attack. Half of the damage \ xfffeHP to recover.
+To spray poison gas against the face of \ xfffe that bring poison. \ Xfffe
+What round \ xfffe throw against attacks. \ Xfffe2 begin to-5 times in a row between.
+The other blood sucking \ xfffe attack. The damage done \ xfffe HP can recover half.
+Approaching a kiss with a frightening look. \ Xfffe sleep state to the other party. \ Xfffe
+The second turn to attack the opponent. \ Xfffe sometimes daunting. \ Xfffe easy vitals per well.
+By transforming into the other Pokemon \ xfffe any opponent \ xfffe can use the same technique.
+With thousands of foam spray against \ xfffe attack. The opponent's quickness \ xfffe may speak to.
+Rhythmic punch to Kuridashi \ xfffe to attack the opponent. \ Xfffe sometimes confusing.
+A hypnotic effect \ xfffe Furimaki sprinkle with spores \ xfffe sleep state to the other party.
+In the glare \ xfffe speak to the opponent's hit rate. \ Xfffe shine bright and dark shoes do.
+Strange feeling waves \ xfffe to launch attacks on others. \ Xfffe changes each time you use damage.
+Byun Byun and without attacks \ xfffe not happen anything ... just jump. \ Xfffe
+And a change in the liquid cell \ xfffe give their defense Gunto. \ Xfffe
+The big scissors \ xfffe lash against the attack. \ Xfffe per the vitals and easy.
+A huge explosion in his \ xfffe attacks around those. \ Xfffe brink after using a.
+And sickle claws, etc. \ xfffe attack against scratching. \ Xfffe2 begin to-5 times in a row between.
+Bone holding in her hands thrown against \ xfffe outward and return two consecutive \ xfffe damage.
+During sleep for two turns. \ Xfffe their abnormal status and HP \ xfffe all recover.
+Large rocks \ xfffe attacks hit hard. \ Xfffe sometimes daunting opponent.
+The sharp teeth \ xfffe strong bite and attack. \ Xfffe sometimes daunting opponent.
+Whether to increase the body \ xfffe it's kak kak \ xfffe give their attacks.
+Type your \ xfffe remember that the inside of the technique \ xfffe any one of the same type.
+In light of the three attacks. \ Xfffe ice conditions or burns or paralysis \ xfffe may be one.
+The sharp teeth \ xfffe violently attacking bite. \ Xfffe opponent's HP is halved.
+And sickle claws, etc. \ xfffe cuts the opponent to attack. \ Xfffe per the vitals and easy.
+HP to cut my little \ xfffe alter ego burst. \ Xfffe his alter ego is a scapegoat.
+My PP and there are no \ xfffe struggling to attack the opponent. \ Xfffe little damage, too.
+Techniques used by other \ xfffe make your own. \ Xfffe1 use sketch once disappears.
+Kuridashi to kick consecutive 3 \ xfffe attack. Win every technique \ xfffe Power is go up.
+At the same time attack and steal tools. \ Xfffe but if you have your own tools \ xfffe steal.
+A thin thread sticky \ xfffe Karamase round and round your opponent \ xfffe you can not run away from combat.
+The person feels the movement of the heart \ xfffe next attack is always \ xfffe to hit the opponent.
+Against the rest of the state \ xfffe showing a little bit every turn nightmarish \ xfffeHP will reduce.
+Wrapped in flames \ xfffe against rushing attack. \ Xfffe may burn state.
+When one is sleeping \ xfffe attack with heavy noise. \ Xfffe sometimes daunting opponent.
+Pokemon use \ xfffe and in other ghost type \ xfffe effect change.
+Struggle is raging attack. \ Xfffe own fewer HP \ xfffe go up the power of the technique.
+Last used the technique against \ xfffe to be resistance \ xfffe changing their type.
+Air vortex \ xfffe fire to attack. \ Xfffe per the vitals easy.
+Fluffy cotton-like spores \ xfffe tired we Matowari \ xfffe Ku and speak to the quickness of the opponent.
+Furishibori attacking force. \ Xfffe own fewer HP \ xfffe go up the power of the technique.
+Last used the technique against \ xfffe holding a grudge \ xfffe only four of the technique reduces the PP.
+Cold powdery snow \ xfffe blows against attack. \ Xfffe ice conditions may be.
+Attacks against \ xfffe suffer at all. \ Xfffe begins to often fail in a row.
+留Maranu also like blue eyes \ xfffe Kuridasu punch. \ Xfffe can always strike.
+Stare at a frightening look scared \ xfffe Ku and speak to the quickness of the opponent. \ Xfffe
+Casually against Chikadzuki \ xfffe Naguritsukeru like looking at a guard. \ Xfffe sure to hit the attack.
+Cute as an angel to kiss \ xfffe confuse your opponent. \ Xfffe
+Up to HP's own HP \ xfffe reducing their attack half \ xfffe give the maximum.
+The dirty sludge \ xfffe throw against attacks. \ Xfffe may poisons.
+Face and the other \ xfffe attack throw mud. \ Xfffe speak to the accuracy.
+Face and the other \ xfffe ink spray to attack. \ Xfffe may speak to the accuracy.
+The severity or the feet of the opponent \ xfffe mount. The change came in the other \ xfffe damage to Pokemon.
+Like a cannon \ xfffe electricity to launch attacks. \ Xfffe paralysis that bring a partner.
+Ghost type moves and have no effect \ xfffe evasion against Ino Takashi \ xfffe as of the target.
+After the attack began Technology \ xfffe brink when \ xfffe to attack the other party also on the verge.
+Pokemon listened to the song \ xfffe3 passed, would turn the brink. \ Xfffe no longer useful to change.
+The freezing cold \ xfffe blows against attack. \ Xfffe speak to the quickness of the opponent.
+Attacks against \ xfffe suffer at all. \ Xfffe begins to often fail in a row.
+The hard Bone \ xfffe Naguritsuke to attack the opponent. \ Xfffe2 begin to-5 times in a row between.
+Sights firmly together \ xfffe next attack is always \ xfffe to hit an opponent.
+ー 3-turn between 2 \ xfffe a violent attack. \ Xfffe after violent acts confused.
+The sandstorm turns between 5 \ xfffe other type of surface it is Iwaji \ xfffe damage to Pokemon.
+Absorb nutrients attack. \ Xfffe the damage done \ xfffe HP can recover half.
+Also under attack \ xfffeHP Always leave just one. \ Xfffe begins to often fail in a row.
+Staring at the invitation alert cute \ xfffe Ku and speak to the opponent's attack. \ Xfffe
+During the turn continued rolling 5 \ xfffe attack. Win every technique \ xfffe go up the power.
+The other is HP \ xfffe only one to remain always \ xfffe easy on the attack.
+Anger confuse the opponent. \ Xfffe the opponent in anger \ xfffe Gunto feel self-conscious.
+Half the maximum HP \ xfffe your HP to recover. \ Xfffe a friend can split the HP.
+Clad in the light \ xfffe against rushing attack. \ Xfffe may be paralysis.
+Sickle claws and other opponents in \ xfffe slashed to attack. \ Xfffe Power is go up and hit in a row.
+To lash against the hard wing \ xfffe attack. My defense \ xfffe may go up.
+The black eye like that sucked \ xfffe still stare at your opponent \ xfffe that can not run away from combat.
+To seduce the ♂ ♀ ♀ if you ♂ \ xfffe be drunk. \ Xfffe technique is however difficult opponent.
+Remember that your technique is out of \ xfffe Kuridasu to any one. \ Xfffe only works when one is sleeping.
+Pleasant sound of a bell let \ xfffe all allies \ xfffe to recover the abnormal state.
+Every effort for the trainer \ xfffe to attack the opponent. \ Xfffe Drops Tsutomu Takeshi is enough to go up.
+The box set a trap \ xfffe attacking my opponent. HP is \ xfffe may lead to recovery.
+For openers frustrated every effort \ xfffe to attack the opponent. \ Xfffe Drops will not go up as Isao Takeshi.
+Between turns 5 \ xfffe guarded by a mysterious force \ xfffe become less abnormal state.
+HP and the HP of your opponent \ xfffe it along with your opponent \ xfffe Nakayoku split.
+The Mysterious Flame \ xfffe burn doing our attack the opponent. \ Xfffe may burn state.
+The ground shook his \ xfffe to attack those around them. \ Xfffe power of technology will change many.
+The power of Kon身 \ xfffe Kuridashi punch and attack. \ Xfffe always disrupt the opponent.
+Hard, big time, so a fine summer \ xfffe pierce the opponent to attack. \ Xfffe
+Tremendous breath \ xfffe blows against attack. \ Xfffe may be paralysis.
+Pokemon ahead and replaced. \ Xfffe capacity change is replaced by \ xfffe directly inherit from Pokemon.
+Other techniques last used \ xfffe3 between turns \ xfffe make much Dasa.
+When the other Pokemon are interchanged \ xfffe however that the techniques \ xfffe times the power of that attack.
+Against spinning attack. \ Xfffe Leech Seed Makitsuku Shimetsukeru \ xfffe to blow as well as Toba or severity.
+Speak to the other party to avoid the smell factor. \ Xfffe such as using grass \ xfffe Pokemon come by.
+The stiff tail \ xfffe pushed the opponent to attack. \ Xfffe may speak to the opponent's defense.
+The Steel Claw \ xfffe cuts the opponent to attack. \ Xfffe may go up their attacks.
+After the attack than the opponent. \ Xfffe Instead, your attack is \ xfffe sure to hit.
+To recover your HP. \ Xfffe by weather \ xfffe change the amount of recovery.
+To recover your HP. \ Xfffe by weather \ xfffe change the amount of recovery.
+To recover your HP. \ Xfffe by weather \ xfffe change the amount of recovery.
+Pokemon by using a technique \ xfffe against giving \ xfffe Power is the type of technology change.
+Chop hands \ xfffe lash against the attack. \ Xfffe per the vitals and easy.
+Causing the tornado \ xfffe Makikomi attack your opponent. \ Xfffe sometimes daunting opponent.
+Let the rain turn between 5 \ xfffe water type \ xfffe give the power of technology.
+Between the sun turns 5 \ xfffe strongly with most of your type \ xfffe give the power of technology.
+The sharp teeth \ xfffe Kamikudai to attack the opponent. \ Xfffe may speak to the opponent's defense.
+Special attacks from people who \ xfffe to double the damage \ xfffe return to their opponents.
+Make a suggestion to me that \ xfffe ability to change the state of \ xfffe be the same person.
+留Maranu also like blue eyes \ xfffe against rushing attack. \ Xfffe can always strike.
+Primitive attacking force. \ Xfffe all your \ xfffe capacity may go up.
+Throw a lump of black shadow \ xfffe attack. Special protection against the \ xfffe may speak to.
+After two turns the trick \ xfffe of faith against the \ xfffe send a mass attack.
+Kudaku also like rock \ xfffe punch attack. The other \ xfffe may speak to the defense.
+Intense vortex in the water sow \ xfffe4 turn between -5 \ xfffe shut the opponent to attack.
+Attack on all allies. \ Xfffe more Pokemon fellow \ xfffe increasing number of attacks on Japan.
+A daunting opponent in the first strike. \ Xfffe updating to Tiger combat \ xfffe Dasanai not succeed right away.
+Between turns 3 \ xfffe noisy opponent to attack. \ Xfffe the meantime no one will lose sleep.
+Their ability to accumulate \ xfffe give the defense and special protection.

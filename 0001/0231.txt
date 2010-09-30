@@ -1,233 +1,233 @@
-なし
-アフガニスタン
-アルバニア
-アルジェリア
-アメリカりょうサモア
-アンドラ
-アンゴラ
-アンギラ
-アンティグア・バーブーダ
-アルゼンチン
-アルメニア
-アルバ
-オーストラリア
-オーストリア
-アゼルバイジャン
-バハマ
-バーレーン
-バングラデシュ
-バルバドス
-ベラルーシ
-ベルギー
-ベリーズ
-ベナン
-バミューダ
-ブータン
-ボリビア
-ボスニア・ヘルツェゴビナ
-ボツワナ
-ブラジル
-イギリスりょうバージンしょとう
-ブルネイ
-ブルガリア
-ブルキナファソ
-ブルンジ
-カンボジア
-カメルーン
-カナダ
-カーボベルデ
-ケイマンしょとう
-ちゅうおうアフリカ
-チャド
-チャネルしょとう
-チリ
-ちゅうごく
-クリスマスとう
-コロンビア
-コモロ
-コンゴきょうわこく
-クックしょとう
-コスタリカ
-コートジボワール
-クロアチア
-キューバ
-キプロス
-チェコ
-きたちょうせん
-コンゴみんしゅきょうわこく
-ひがしティモール
-デンマーク
-ジブチ
-ドミニカ
-ドミニカきょうわこく
-エクアドル
-エジプト
-エルサルバドル
-せきどうギニア
-エリトリア
-エストニア
-エチオピア
-フォークランド（マルビナス)しょとう
-フェローしょとう
-フィジーしょとう
-フィンランド
-フランス
-フランスりょうギアナ
-フランスりょうポリネシア
-ガボン
-ガンビア
-グルジア
-ドイツ
-ガーナ
-ジブラルタル
-ギリシャ
-グリーンランド
-グレナダ
-グアドループとう
-グアム
-グアテマラ
-ギニア
-ギニアビサウ
-ガイアナ
-ハイチ
-ホンジュラス
-ハンガリー
-アイスランド
-インド
-インドネシア
-イラン
-イラク
-アイルランド
-マンとう
-イスラエル
-イタリア
-ジャマイカ
-スバールバル・ヤンマンエンとう
-にほん
-ヨルダン
-カシミール
-カザフスタン
-ケニア
-キリバス
-クウェート
-キルギス
-ラオス
-ラトビア
-レバノン
-レソト
-リベリア
-リビア
-リヒテンシュタイン
-リトアニア
-ルクセンブルク
-マケドニアきゅうユーゴスラビア
-マダガスカル
-マラウイ
-マレーシア
-モルディブ
-マリ
-マルタ
-マーシャルしょとう
-マルチニーク
-モーリタニア
-モーリシャス
-マヨット
-メキシコ
-ミクロネシア
-モナコ
-モンゴル
-モンテネグロ
-モロッコ
-モザンビーク
-ミャンマー
-ナミビア
-ナウル
-ネパール
-オランダ
-オランダりょうアンティル
-ニューカレドニア
-ニュージーランド
-ニカラグア
-ニジェール
-ナイジェリア
-ニウエ
-ノーフォークとう
-きたマリアナしょとう
-ノルウェー
-オマーン
-パキスタン
-パラオ
-パレスチナじちく
-パナマ
-パプアニューギニア
-パラグアイ
-ペルー
-フィリピン
-ピトケアン
-ポーランド
-ポルトガル
-プエルトリコ
-カタール
-かんこく
-モルドバ
-レユニオン
-ルーマニア
-ロシア
-ルワンダ
-セントヘレナとう
-セントクリストファー・ネービス
-セントルシア
-セントビンセント・グレナディーン
-サンピエール・ミクロン
-サモア
-サンマリノ
-サントメ・プリンシペ
-サウジアラビア
-セネガル
-セルビア
-セーシェル
-シエラレオネ
-シンガポール
-スロバキア
-スロベニア
-ソロモンしょとう
-ソマリア
-みなみアフリカ
-スペイン
-スリランカ
-スーダン
-スリナム
-スワジランド
-スウェーデン
-スイス
-シリア
-たいわん
-タジキスタン
-タイ
-トーゴ
-トケラウ
-トンガ
-トリニダード・トバゴ
-チュニジア
-トルコ
-トルクメニスタン
-タークス・カイコスしょとう
-ツバル
-ウガンダ
-ウクライナ
-アラブしゅちょうこく
-イギリス
-タンザニア
-アメリカ
-アメリカりょうバージンしょとう
-ウルグアイ
-ウズベキスタン
-バヌアツ
-バチカン
-ベネズエラ
-ベトナム
-ワリス・フテュナしょとう
-にしサハラ
-イエメン
-ザンビア
-ジンバブエ
+﻿No
+Afghanistan
+Albania
+Algeria
+American Samoa speak
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bs
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Shotou speak
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Shotou
+Chi Chuo Africa
+Chad
+Channel Shotou
+Chile
+Chugoku
+Kurisumasutou
+Columbia
+Comoros
+Speak Republic of the Congo
+Cook Shotou
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Butterfly has not
+Speak Democratic Congo
+East Timor
+Denmark
+Djibouti
+Dominica
+Speak Republic Dominican Republic
+Ecuador
+Egypt
+Sv
+What cough Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland (Malvinas) Shotou
+Fellow Shotou
+Fiji Shotou
+Finland
+France
+Speak French Guiana
+Speak French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadoruputou
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Mantou
+Israel
+Italy
+Jamaica
+Svalbard Yanmanentou
+Nihongo
+Jordan
+Kashmir
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kirghiz
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Yugoslav Republic of Macedonia baseball
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mari
+Malta
+Marshall Shotou
+Mq
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Ryo Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Thank Norfolk
+Mariana has Shotou
+Norway
+Oman
+Pakistan
+Palau
+Paresuchinaji cattle
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Speak speak
+Md
+Reunion
+Romania
+Russia
+Rwanda
+Thank St
+Saint Christopher and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saint Pierre and Miquelon
+Samoa
+San Marino
+St
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Shotou
+Somalia
+Minami Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Want dog
+Tajikistan
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Shotou
+Tuvalu
+Uganda
+Ukraine
+Arab Nations Shuchou
+United Kingdom
+Tanzania
+United States
+Virgin America speak Shotou
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna Shotou
+Sahara to
+Yemen
+Zambia
+Zimbabwe

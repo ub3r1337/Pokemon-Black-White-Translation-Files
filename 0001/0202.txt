@@ -1,42 +1,42 @@
-\xf000Ă\x0001\x0000に\xfffeどの技を　覚えさせる？
-\xf000ć\x0001\x0001　を\xfffe覚えさせますか？
-\xf000Ă\x0001\x0000に　技を\xfffe覚えさせるのを　あきらめますか？
-\xf000Ă\x0001\x0000は　新しく\xfffe\xf000ć\x0001\x0001を　覚えた！
-\xf000Ă\x0001\x0000は　新しく\xfffe\xf000ć\x0001\x0001を　覚えたい……\xf000븁\x0000しかし　\xf000Ă\x0001\x0000は　技を　４つ\xfffe覚えるので　せいいっぱいだ！\xf000븁\x0000\xf000ć\x0001\x0001の　代わりに\xfffe他の　技を　忘れさせますか？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffe使い方を　きれいに忘れた！\xf000븁\x0000そして……！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　新しく\xfffe\xf000ć\x0001\x0001を　覚えた！\xf000븁\x0000
-それでは……　\xf000ć\x0001\x0001を\xfffe覚えるのを　あきらめますか？
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffe覚えずに　おわった！\xf000븁\x0000
-\xf000Ā\x0001\x0002は　お礼に\xfffeハートのウロコを　１枚　あげた！
-\xf000ć\x0001\x0000を\xfffe忘れさせて　よろしいですね？
-\xf000Ă\x0001\x0000に\xfffeどの技を　思い出させる？
-\xf000ć\x0001\x0001　を\xfffe思い出しますか？
-\xf000Ă\x0001\x0000に　技を\xfffe思い出させるのを　あきらめますか？
-\xf000Ă\x0001\x0000は　忘れていた\xfffe\xf000ć\x0001\x0001を　思い出した！\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を　思い出したい…\xf000븁\x0000しかし　\xf000Ă\x0001\x0000は　技を　４つ\xfffe覚えるので　せいいっぱいだ！\xf000븁\x0000\xf000ć\x0001\x0001の　代わりに\xfffe他の　技を　忘れさせますか？
-１\xf000븂\x0001\x0014　２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014　ポカン！\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001の\xfffe使い方を　きれいに忘れた！\xf000븁\x0000そして……！\xf000븁\x0000
-\xf000Ă\x0001\x0000は　忘れていた\xfffe\xf000ć\x0001\x0001を　思い出した！\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
-それでは……　\xf000ć\x0001\x0001を\xfffe思い出すのを　あきらめますか？
-\xf000Ă\x0001\x0000は　\xf000ć\x0001\x0001を\xfffe思い出さずに　終わった！\xf000븁\x0000
-\xf000Ā\x0001\x0000は　お礼に\xfffeハートのウロコを　１枚　あげた！
-\xf000ć\x0001\x0000を\xfffe忘れさせて　よろしいですね？
-ぶんるい
-いりょく
-めいちゅう
-ＰＰ
-たたかうわざ
-アピールポイント
-コンテストわざ
-\xf000Ȃ\x0001\x0000
-\xf000Ȃ\x0001\x0000
-\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
-やめる
-－－－
-もどる
-覚える
-どのわざを　覚えさせる？
-\xf000Ă\x0001\x0000
-Ｌｖ．\xf000Ȃ\x0001\x0000
-覚えている　わざ
-はい
-いいえ
+﻿\ Xf000Ă \ x0001 \ x0000 to \ xfffe technique which makes the person feel?
+\ Xf000ć \ x0001 \ x0001 to \ xfffe what makes you remember?
+\ Xf000Ă \ x0001 \ x0000 techniques to \ xfffe what makes you remember giving up?
+\ Xf000Ă \ x0001 \ x0000 is a new \ xfffe \ xf000ć \ x0001 \ x0001 remembered!
+\ Xf000Ă \ x0001 \ x0000 is a new \ xfffe \ xf000ć \ x0001 \ x0001 memorize the ... ... \ xf000 븁 \ x0000 but \ xf000Ă \ x0001 \ x0000 has four technical \ xfffe Seiippai because they learn! \ Xf000 븁 \ x0000 \ xf000ć \ x0001 \ x0001 instead of the \ xfffe makes you forget about the other tricks?
+1 \ xf000 븂 \ x0001 \ x0014 for 2 \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 pow! \ Xf000 븅 \ x0001 \ x0003 \ xf000 븅 \ x0001 \ x0005 \ xf000 븄 \ x0000 \ xf000 븁 \ x0000 \ xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 in \ xfffe forgot how to clean! \ Xf000 븁 \ x0000 and ...! \ Xf000 븁 \ x0000
+\ Xf000Ă \ x0001 \ x0000 is a new \ xfffe \ xf000ć \ x0001 \ x0001 remembered! \ Xf000 븁 \ x0000
+So ... ... \ xf000ć \ x0001 \ x0001 to \ xfffe I remember giving up?
+\ Xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 to \ xfffe without remembering you finished? \ Xf000 븁 \ x0000
+\ Xf000Ā \ x0001 \ x0002 to thank \ xfffe heart gave one of the scales!
+\ Xf000ć \ x0001 \ x0000 to \ xfffe I want to forget?
+\ Xf000Ă \ x0001 \ x0000 to \ xfffe Which reminds me of Technology?
+\ Xf000ć \ x0001 \ x0001 to \ xfffe you remember?
+\ Xf000Ă \ x0001 \ x0000 techniques to \ xfffe remind you giving up?
+\ Xf000Ă \ x0001 \ x0000 forgot \ xfffe \ xf000ć \ x0001 \ x0001 remembered! \ Xf000 븅 \ x0001 \ x0004 \ xf000 븅 \ x0001 \ x0005 \ xf000 븇 \ x0000 \ xf000 븁 \ x0000
+\ Xf000Ă \ x0001 \ x0000 is \ xfffe \ xf000ć \ x0001 \ x0001 to remember the ... \ xf000 븁 \ x0000 but \ xf000Ă \ x0001 \ x0000 has four technical \ xfffe Seiippai because they learn! \ Xf000 븁 \ x0000 \ xf000ć \ x0001 \ x0001 instead of the \ xfffe makes you forget about the other tricks?
+1 \ xf000 븂 \ x0001 \ x0014 for 2 \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 ... \ xf000 븂 \ x0001 \ x0014 pow! \ Xf000 븅 \ x0001 \ x0003 \ xf000 븆 \ x0001 \ x0002 \ xf000 븇 \ x0000 \ xf000 븄 \ x0000 \ xf000 븁 \ x0000 \ xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 in \ xfffe forgot how to clean ! \ Xf000 븁 \ x0000 and ...! \ Xf000 븁 \ x0000
+\ Xf000Ă \ x0001 \ x0000 forgot \ xfffe \ xf000ć \ x0001 \ x0001 remembered! \ Xf000 븅 \ x0001 \ x0004 \ xf000 븅 \ x0001 \ x0005 \ xf000 븇 \ x0000 \ xf000 븁 \ x0000
+So ... ... \ xf000ć \ x0001 \ x0001 to \ xfffe I remember giving up?
+\ Xf000Ă \ x0001 \ x0000 is \ xf000ć \ x0001 \ x0001 to \ xfffe 思I出Sazu finished! \ Xf000 븁 \ x0000
+\ Xf000Ā \ x0001 \ x0000 to thank \ xfffe heart gave one of the scales!
+\ Xf000ć \ x0001 \ x0000 to \ xfffe I want to forget?
+Bun Rui
+Roasted force
+Me underwater
+PP
+Fight Moves
+Appeal Points
+Contest Moves
+\ Xf000Ȃ \ x0001 \ x0000
+\ Xf000Ȃ \ x0001 \ x0000
+\ Xf000ȁ \ x0001 \ x0000 / \ xf000ȁ \ x0001 \ x0001
+Quit
+---
+Back
+Remember
+Which give someone the works?
+\ Xf000Ă \ x0001 \ x0000
+Lv. \ Xf000Ȃ \ x0001 \ x0000
+I remember the work
+Yes
+No

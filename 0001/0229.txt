@@ -1,240 +1,240 @@
-なし
-アフガニスタン
-アルバニア
-アルジェリア
-アメリカりょうサモア
-アンドラ
-アンゴラ
-アンギラ
-アンティグア・\xfffeバーブーダ
-アルゼンチン
-アルメニア
-アルバ
-オーストラリア
-オーストリア
-アゼルバイジャン
-バハマ
-バーレーン
-バングラデシュ
-バルバドス
-ベラルーシ
-ベルギー
-ベリーズ
-ベナン
-バミューダ
-ブータン
-ボリビア
-ボスニア・\xfffeヘルツェゴビナ
-ボツワナ
-ブラジル
-イギリスりょう\xfffeバージンしょとう
-ブルネイ
-ブルガリア
-ブルキナファソ
-ブルンジ
-カンボジア
-カメルーン
-カナダ
-カーボベルデ
-ケイマンしょとう
-ちゅうおうアフリカ
-チャド
-チャネルしょとう
-チリ
-ちゅうごく
-クリスマスとう
-コロンビア
-コモロ
-コンゴきょうわこく
-クックしょとう
-コスタリカ
-コートジボワール
-クロアチア
-キューバ
-キプロス
-チェコ
-きたちょうせん
-コンゴ\xfffeみんしゅきょうわこく
-ひがしティモール
-デンマーク
-ジブチ
-ドミニカ
-ドミニカきょうわこく
-エクアドル
-エジプト
-エルサルバドル
-せきどうギニア
-エリトリア
-エストニア
-エチオピア
-フォークランド\xfffe(マルビナス)しょとう
-フェローしょとう
-フィジーしょとう
-フィンランド
-フランス
-フランスりょうギアナ
-フランスりょう\xfffeポリネシア
-ガボン
-ガンビア
-グルジア
-ドイツ
-ガーナ
-ジブラルタル
-ギリシャ
-グリーンランド
-グレナダ
-グアドループとう
-グアム
-グアテマラ
-ギニア
-ギニアビサウ
-ガイアナ
-ハイチ
-ホンジュラス
-ハンガリー
-アイスランド
-インド
-インドネシア
-イラン
-イラク
-アイルランド
-マンとう
-イスラエル
-イタリア
-ジャマイカ
-スバールバル・\xfffeヤンマンエンとう
-にほん
-ヨルダン
-カシミール
-カザフスタン
-ケニア
-キリバス
-クウェート
-キルギス
-ラオス
-ラトビア
-レバノン
-レソト
-リベリア
-リビア
-リヒテンシュタイン
-リトアニア
-ルクセンブルク
-マケドニアきゅう\xfffeユーゴスラビア
-マダガスカル
-マラウイ
-マレーシア
-モルディブ
-マリ
-マルタ
-マーシャルしょとう
-マルチニーク
-モーリタニア
-モーリシャス
-マヨット
-メキシコ
-ミクロネシア
-モナコ
-モンゴル
-モンテネグロ
-モロッコ
-モザンビーク
-ミャンマー
-ナミビア
-ナウル
-ネパール
-オランダ
-オランダりょう\xfffeアンティル
-ニューカレドニア
-ニュージーランド
-ニカラグア
-ニジェール
-ナイジェリア
-ニウエ
-ノーフォークとう
-きたマリアナしょとう
-ノルウェー
-オマーン
-パキスタン
-パラオ
-パレスチナじちく
-パナマ
-パプアニューギニア
-パラグアイ
-ペルー
-フィリピン
-ピトケアン
-ポーランド
-ポルトガル
-プエルトリコ
-カタール
-かんこく
-モルドバ
-レユニオン
-ルーマニア
-ロシア
-ルワンダ
-セントヘレナとう
-セントクリストファー・\xfffeネービス
-セントルシア
-セントビンセント・\xfffeグレナディーン
-サンピエール・\xfffeミクロン
-サモア
-サンマリノ
-サントメ・プリンシペ
-サウジアラビア
-セネガル
-セルビア
-セーシェル
-シエラレオネ
-シンガポール
-スロバキア
-スロベニア
-ソロモンしょとう
-ソマリア
-みなみアフリカ
-スペイン
-スリランカ
-スーダン
-スリナム
-スワジランド
-スウェーデン
-スイス
-シリア
-たいわん
-タジキスタン
-タイ
-トーゴ
-トケラウ
-トンガ
-トリニダード・トバゴ
-チュニジア
-トルコ
-トルクメニスタン
-タークス・\xfffeカイコスしょとう
-ツバル
-ウガンダ
-ウクライナ
-アラブしゅちょうこく
-イギリス
-タンザニア
-アメリカ
-アメリカりょう\xfffeバージンしょとう
-ウルグアイ
-ウズベキスタン
-バヌアツ
-バチカン
-ベネズエラ
-ベトナム
-ワリス・フテュナしょとう
-にしサハラ
-イエメン
-ザンビア
-ジンバブエ
-行き先を　選んでください
-\xf000Ĥ\x0001\x0000\xfffeのフロアに　移動　しますか？
-はい
-いいえ
-\xf000Ȃ\x0001\x0002F
-？
-移動先が　変わっていません\xf000븁\x0000
+﻿No
+Afghanistan
+Albania
+Algeria
+American Samoa speak
+Andorra
+Angola
+Anguilla
+Antigua \ xfffe Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bs
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia \ xfffe Herzegovina
+Botswana
+Brazil
+Speak English \ xfffe Virgin Shotou
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cabo Verde
+Cayman Shotou
+Chi Chuo Africa
+Chad
+Channel Shotou
+Chile
+Chugoku
+Kurisumasutou
+Columbia
+Comoros
+Speak Republic of the Congo
+Cook Shotou
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Butterfly has not
+Congo \ xfffe speak Democratic
+East Timor
+Denmark
+Djibouti
+Dominica
+Speak Republic Dominican Republic
+Ecuador
+Egypt
+Sv
+What cough Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland \ xfffe (Malvinas) Shotou
+Fellow Shotou
+Fiji Shotou
+Finland
+France
+Speak French Guiana
+Speak French \ xfffe Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadoruputou
+Guam
+Guatemala
+Guinea
+Guinea Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Mantou
+Israel
+Italy
+Jamaica
+Svalbard \ xfffe Yanmanentou
+Nihongo
+Jordan
+Kashmir
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kirghiz
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia baseball \ xfffe Yugoslavia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mari
+Malta
+Marshall Shotou
+Mq
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Speak Dutch \ xfffe Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Thank Norfolk
+Mariana has Shotou
+Norway
+Oman
+Pakistan
+Palau
+Paresuchinaji cattle
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Speak speak
+Md
+Reunion
+Romania
+Russia
+Rwanda
+Thank St
+St. Christopher \ xfffe Nevis
+Saint Lucia
+St. \ xfffe Grenadines
+Pierre \ xfffe micron
+Samoa
+San Marino
+St
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Shotou
+Somalia
+Minami Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Want dog
+Tajikistan
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks \ xfffe Shotou Caicos
+Tuvalu
+Uganda
+Ukraine
+Arab Nations Shuchou
+United Kingdom
+Tanzania
+United States
+Americans speak \ xfffe Virgin Shotou
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican
+Venezuela
+Vietnam
+Wallis and Futuna Shotou
+Sahara to
+Yemen
+Zambia
+Zimbabwe
+Please select a destination
+\ Xf000Ĥ \ x0001 \ x0000 \ xfffe or go to the floor?
+Yes
+No
+\ Xf000Ȃ \ x0001 \ x0002F
+?
+Where they have not changed \ xf000 븁 \ x0000
